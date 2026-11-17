@@ -1538,6 +1538,38 @@
    "fit": "contain"
   },
   {
+   "id": "jp-yuki1998takamura",
+   "name": "Yuki Takamura (Instagram DM)",
+   "city": "Tokyo",
+   "role": "coach, creator",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。ボレーやサーブのレッスン動画、いつも参考になっています!12月14日〜19日に東京(千駄ヶ谷近く)に滞在するので、その週にプライベートレッスンかヒッティングを1回お願いできませんか?\n\nHi Yuki! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Love your serve and volley breakdown reels. I'm in Tokyo Dec 14-19, staying near Sendagaya; could I book one private session or a hit with you that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/yuki1998takamura"
+    }
+   ],
+   "new": true,
+   "handle": "yuki1998takamura"
+  },
+  {
+   "id": "jp-midorigaokatennisgarden",
+   "name": "Midorigaoka Tennis Garden (Instagram DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。本村剛一プロのクリニックの投稿を拝見しました。12月14日〜19日に東京に滞在します。その週にビジターで参加できる上級者向けのクラスや練習会、またはコートのレンタルはありますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw the Motomura clinic post. I'm in Tokyo Dec 14-19; is there an advanced class, practice session or court rental a visitor could join that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/midorigaokatennisgarden"
+    }
+   ],
+   "new": true,
+   "handle": "midorigaokatennisgarden"
+  },
+  {
    "id": "jp-maaaio",
    "name": "Maio Suzuki (Instagram DM)",
    "city": "Saitama",
