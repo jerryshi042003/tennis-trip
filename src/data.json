@@ -486,6 +486,38 @@
    ]
   },
   {
+   "id": "ph-threecourts.cubao",
+   "name": "Three Courts Cubao",
+   "city": "Quezon City",
+   "role": "Tenisitas group, QC",
+   "action": "SEND",
+   "send": "Hey Three Courts! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Saw Racket On Court's post on the new QC courts, looks sick. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies. Could I book a court or get matched with a strong hitting partner that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/threecourts.cubao"
+    }
+   ],
+   "new": true,
+   "handle": "threecourts.cubao"
+  },
+  {
+   "id": "ph-theopenrally",
+   "name": "The Open Rally",
+   "city": "Philippines",
+   "role": "QC open plays",
+   "action": "SEND",
+   "send": "Hi Open Rally! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Love the QC open plays at Three Courts. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies on clay. Any open play or tournament I could jump into that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/theopenrally"
+    }
+   ],
+   "new": true,
+   "handle": "theopenrally"
+  },
+  {
    "id": "ph-sweep.ipop",
    "name": "SWEEP",
    "city": "Manila",
