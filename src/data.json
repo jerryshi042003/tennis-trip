@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-coach-dennar-casas-messenger",
+   "name": "Coach Dennar Casas (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Den! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw your Pacita 2 session and the ATP coaching cert, nice. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance you or your stronger players would want to hit one day? Happy to come down to Nuvali or San Pedro.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-heytennis-messenger",
    "name": "HeyTennis (Messenger)",
    "city": "Philippines",
