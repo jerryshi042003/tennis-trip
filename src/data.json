@@ -1164,6 +1164,70 @@
    "fit": "contain"
   },
   {
+   "id": "jp-takuo_3",
+   "name": "Takuo",
+   "city": "Tokyo",
+   "role": "たくお",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。日韓親善マッチの写真、すごく雰囲気が良くて見入ってしまいました。12月14日〜19日に千駄ヶ谷あたりに滞在するので、その間にどこかで打つ時に撮影をお願いできたら嬉しいです(もちろん一緒に打つのも大歓迎です)。料金や空いている日を教えてもらえますか?\n\nHey Takuo! I'm Jerry, a tennis player from LA (UCLA alum, ITF Futures, about UTR 9). Loved your shots from the Japan x Korea friendly. I'm in Tokyo near Sendagaya Dec 14-19. Could I book you to shoot one of my hits that week (and happy to rally too)? What would it cost and which days work?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/takuo_3"
+    }
+   ],
+   "new": true,
+   "handle": "takuo_3"
+  },
+  {
+   "id": "jp-julienmakrai",
+   "name": "Julien KAI",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。テニス好きなモデルとしての投稿、いつも雰囲気が最高です。12月14日〜19日に千駄ヶ谷あたりに滞在するので、その間に一度一緒に打てたら嬉しいです。都合のいい日はありますか?\n\nHey Julien! Jerry here, LA-based player (UCLA, ITF futures, UTR ~9). Love the tennis content. I'm in Tokyo Dec 14-19 near Sendagaya. Down to hit one day that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/julienmakrai"
+    }
+   ],
+   "new": true,
+   "handle": "julienmakrai"
+  },
+  {
+   "id": "jp-shogotennisplayer",
+   "name": "Shogo Sato",
+   "city": "Tokyo",
+   "role": "佐藤翔吾",
+   "action": "SEND",
+   "send": "はじめまして。LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures出場、UTR 9前後)。八千代松陰高校との練習試合の投稿を拝見しました。Torolineのスポンサーと知って親近感がわきました。12月14日〜19日に東京(千駄ヶ谷)にいるので、その間に一度練習か練習試合をお願いできませんか?\n\nHi Shogo, Jerry from LA (UCLA, ITF futures, UTR ~9). Saw your practice-match post with Yachiyo Shoin, and that you're with Toroline too. I'm in Tokyo Dec 14-19 near Sendagaya. Any chance we could hit or play a practice set that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/shogotennisplayer"
+    }
+   ],
+   "new": true,
+   "handle": "shogotennisplayer"
+  },
+  {
+   "id": "jp-ogusuke0209",
+   "name": "Kosuke Ogura (hold until city is confirmed)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして。LAのJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。シンガポールM15ベスト4と準優勝おめでとうございます。12月14日〜19日に東京にいるのですが、その頃関東にいらっしゃれば一度練習相手をお願いできませんか?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/ogusuke0209"
+    }
+   ],
+   "new": true,
+   "handle": "ogusuke0209"
+  },
+  {
    "id": "jp-7_7_shin",
    "name": "Shin",
    "city": "Tokyo",
