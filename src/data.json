@@ -1446,6 +1446,22 @@
    "fit": "contain"
   },
   {
+   "id": "jp-takuya.komura1221",
+   "name": "takuya.komura1221",
+   "city": "Tokyo",
+   "role": "小村拓也",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。東京タワー前のコートでのフォアハンド動画、いつも拝見しています。12月14日〜19日に東京(千駄ヶ谷あたり)に滞在するのですが、その間にヒッティングかプライベートレッスンをお願いできますか?料金があれば教えてください。\n\nHey Takuya! I'm Jerry, LA-based, UCLA alum playing ITF futures (UTR ~9). Love the Tokyo Tower court forehand clips. I'm in Tokyo Dec 14-19 near Sendagaya. Any chance we could hit or book a private session that week? Let me know your rate.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/takuya.komura1221"
+    }
+   ],
+   "new": true,
+   "handle": "takuya.komura1221"
+  },
+  {
    "id": "jp-mltc.tennis",
    "name": "mltc.tennis",
    "city": "Tokyo",
