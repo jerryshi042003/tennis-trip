@@ -1975,6 +1975,16 @@
    "fit": "contain"
   },
   {
+   "id": "jp-東京大学運動会庭球部-ig-dm",
+   "name": "東京大学運動会庭球部 (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして。LAでテニスをしているJerry Shiと申します(UCLA出身、ITF Futures出場、UTR 9前後)。9月に男子部が4部へ昇格されたと拝見しました、おめでとうございます。12月14日〜19日に東京(千駄ヶ谷)に滞在するのですが、その期間に練習に参加させていただくことは可能でしょうか?\n\nHi! Jerry from LA (UCLA, ITF futures, UTR ~9). Congrats on the men's promotion to Div. 4 this fall. I'm in Tokyo Dec 14-19 near Sendagaya. Any chance I could join a practice that week?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-法政大学体育会テニス部-ig-dm",
    "name": "法政大学体育会テニス部 (IG DM)",
    "city": "Tokyo",
