@@ -486,6 +486,26 @@
    ]
   },
   {
+   "id": "ph-coach-charlo-messenger",
+   "name": "Coach Charlo (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Charlo! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw you coach at Multinational Village and used to be at Manila Polo and The Palms. I'm in Manila from this weekend for PCA qualies, Cebu after. Could I book a couple of hitting or drill sessions with you before Nov 30? Happy to pay your rate.",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-paranaque-tennis-lesson-coach-marlon-messenger",
+   "name": "Paranaque Tennis Lesson / Coach Marlon (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey Coach Marlon! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Your open plays at Green Heights look fun. I'm in Manila from this weekend for PCA qualies, Cebu after. Could I join an open play or book a hit with a strong player there the week of Nov 23? Happy to pay.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-okiks-on-court-messenger",
    "name": "Okiks On Court (Messenger)",
    "city": "Philippines",
@@ -1823,6 +1843,36 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-キミ-tennis-bear-chat",
+   "name": "キミ (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に東京に滞在します。北区中央公園のシングルス寄りの練習会、ぜひ参加してみたいです。その週に開催があれば参加させていただけますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19. Your singles-leaning practice at Kita Chuo Park sounds perfect for me. Could I join one that week?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-bk_kato-tennis-bear-chat",
+   "name": "bk_kato (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に千駄ヶ谷近くに滞在します。落合中央公園の朝ダブルス、宿から近くて魅力的でした。その週に開催があれば参加させていただけますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm staying near Sendagaya Dec 14-19. Your morning doubles at Ochiai Chuo Park is close by. Any chance I could join a session that week?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-toweltaro-tennis-bear-chat",
+   "name": "towelTaro (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に東京に滞在します。新河岸川での1対1シングルス、上のレベルの方歓迎とのことでお声がけしました。その週に一度シングルスをお願いできますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19. Saw your 1-on-1 singles at Shingashi River welcomes stronger players. Up for a set that week?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-ニッシー-tennis-bear-chat",
