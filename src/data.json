@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-coach-mik-las-piñas-messenger",
+   "name": "Coach Mik",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Mik! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw you're a two-time SEA Games medalist now coaching in Las Piñas. I'm in Manila from this weekend for PCA qualies, Cebu after. Would you be up for a hit or a training session before qualies start Nov 30?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-racketeer-mnl-coach-jc-messenger",
    "name": "Racketeer MNL / Coach Jc (Messenger)",
    "city": "Philippines",
