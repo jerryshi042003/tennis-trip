@@ -516,6 +516,16 @@
    "new": true
   },
   {
+   "id": "ph-arthur-dasian-cebu-city-messenger",
+   "name": "Arthur Dasian",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi coach Arthur! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Saw you're a USPTA pro coaching in Cebu City. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Could I book a session with you, or would you know strong players there who'd want a hit?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-stanleyseludo",
    "name": "Stanley Seludo",
    "city": "Manila",
