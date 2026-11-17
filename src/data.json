@@ -1414,6 +1414,22 @@
    "fit": "contain"
   },
   {
+   "id": "jp-sakuradaclubtokyotenniscollege",
+   "name": "sakuradaclubtokyotenniscollege",
+   "city": "Tokyo",
+   "role": "academy, est. 1980",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。デ杯・フェド杯の選手を輩出されている桜田倶楽部さんの投稿を拝見しました。12月14日〜19日に東京に滞在する予定で、その間に上級者の練習やヒッティングに参加させていただける枠はありますか?ビジター料金があればお支払いします。\n\nHi! I'm Jerry, LA-based, UCLA alum playing ITF futures (UTR ~9). Love that Sakurada has developed Davis/Fed Cup players. I'm in Tokyo Dec 14-19. Any chance I could join a high-level practice or hitting session that week? Happy to pay a visitor fee.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/sakuradaclubtokyotenniscollege"
+    }
+   ],
+   "new": true,
+   "handle": "sakuradaclubtokyotenniscollege"
+  },
+  {
    "id": "jp-kpitokyo",
    "name": "kpitokyo",
    "city": "Shibuya",
