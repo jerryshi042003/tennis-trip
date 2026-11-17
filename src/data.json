@@ -572,6 +572,54 @@
    "new": true
   },
   {
+   "id": "ph-southerntenniscollectiveph",
+   "name": "The Southern Tennis Collective (IG DM)",
+   "city": "Philippines",
+   "role": "Las Piñas organizer",
+   "action": "SEND",
+   "send": "Hi! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw the 3rd Rally for a Cause team tennis at Cittadella last month, love that it was for a cause. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Any open play in Las Piñas I could join before Nov 30?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/southerntenniscollectiveph"
+    }
+   ],
+   "new": true,
+   "handle": "southerntenniscollectiveph"
+  },
+  {
+   "id": "ph-club1740_",
+   "name": "Club 1740 (IG DM or Reclub)",
+   "city": "Philippines",
+   "role": "Las Piñas team tennis club",
+   "action": "SEND",
+   "send": "Hey! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Congrats on the STC team tennis title! I'm in Manila from this weekend for PCA Open qualies, Cebu after. Could I join one of your sessions at Cittadella before Nov 30?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/club1740_"
+    }
+   ],
+   "new": true,
+   "handle": "club1740_"
+  },
+  {
+   "id": "ph-acehousesociety",
+   "name": "Ace House Society (IG DM or Reclub)",
+   "city": "Philippines",
+   "role": "Las Piñas tennis club",
+   "action": "SEND",
+   "send": "Hi! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw the crew at BFRV, looks like a competitive group. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Any chance I can join a play night before Nov 30?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/acehousesociety"
+    }
+   ],
+   "new": true,
+   "handle": "acehousesociety"
+  },
+  {
    "id": "ph-attynnis",
    "name": "Attynnis (IG DM)",
    "city": "Manila",
