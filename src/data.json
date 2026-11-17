@@ -1905,6 +1905,32 @@
    "fit": "contain"
   },
   {
+   "id": "jp-sayobaby",
+   "name": "Sayo Yoshida / (IG DM)",
+   "city": "Tokyo",
+   "role": "actress and tennis creator",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。NYのWilsonイベントの投稿、楽しそうでした!12月14日〜19日に東京(千駄ヶ谷付近)に滞在するので、もしタイミングが合えばその週に一緒に打っていただけませんか?動画の相手役もできます。\n\nHi Sayo! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Loved the Wilson Central Park post. I'm in Tokyo Dec 14-19 near Sendagaya. If it works, would you be up for a hit that week? Happy to be the hitting partner for a video too.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/sayobaby"
+    }
+   ],
+   "new": true,
+   "handle": "sayobaby"
+  },
+  {
+   "id": "jp-cosmo-tennis-college-ig-dm",
+   "name": "Cosmo Tennis College (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。東京・埼玉・千葉でスクールと大会を運営されていると拝見しました。12月14日〜19日に東京(千駄ヶ谷付近)にいるのですが、その週に参加できる上級クラスや大会はありますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw you run schools and tournaments around Tokyo. I'm in Tokyo Dec 14-19 near Sendagaya. Is there an advanced class or a tournament I could join that week?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-jitc-ig-dm",
    "name": "JITC (IG DM)",
    "city": "Tokyo",
