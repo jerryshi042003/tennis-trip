@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-coach-aj-messenger",
+   "name": "Coach AJ (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach AJ! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw your Rally Lab sessions and the team elite post, looks like a strong group. I'm in Manila from this weekend for PCA qualies, Cebu after. Could I join a Rally Lab session or hit with one of your top players one day?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-dennar-casas-messenger",
    "name": "Coach Dennar Casas (Messenger)",
    "city": "Philippines",
@@ -1873,6 +1883,26 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-チームどm-tennis-bear-chat",
+   "name": "チームどM (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に千駄ヶ谷の近くに滞在します。「楽しく真剣に」のコンセプトと月60回の練習会にとても惹かれました。その週にビジターとして参加できる練習会はありますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19, staying near Sendagaya. Love the \"Have fun, play hard\" approach and how often you run sessions. Is there a session that week I could join as a visitor?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-世田谷de早朝テニス-turbo-tennis-bear-chat",
+   "name": "世田谷de早朝テニス / turbo (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に東京に滞在します。大蔵の早朝練、ぜひ打ちたいです。12月19日(土)の朝に開催があれば、ビジターで参加させていただけますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19. Your early-morning drills at Okura sound great. If there's a session Sat Dec 19, could I join as a visitor?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-ひろゆき-tennis-bear-chat",
