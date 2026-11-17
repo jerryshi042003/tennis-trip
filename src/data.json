@@ -486,6 +486,22 @@
    ]
   },
   {
+   "id": "ph-john.c.tennis",
+   "name": "John C Tennis",
+   "city": "Manila",
+   "role": "Manila rec player and YouTuber",
+   "action": "SEND",
+   "send": "Hey John! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Been watching your full-match uploads, the MTE singles one was fun. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies on clay. Down to hit or play a set (and film it) one of those days?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/john.c.tennis"
+    }
+   ],
+   "new": true,
+   "handle": "john.c.tennis"
+  },
+  {
    "id": "ph-louplaystennis",
    "name": "Lou Gambong",
    "city": "Cebu",
