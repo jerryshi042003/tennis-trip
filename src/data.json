@@ -1855,6 +1855,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-タニ-tennis-bear-chat",
+   "name": "タニ (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に千駄ヶ谷の近くに滞在します。青山運動場の練習会、宿から歩いて行ける距離なのでぜひ参加してみたいです。その週に開催があれば参加させていただけますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm staying near Sendagaya Dec 14-19, walking distance from Aoyama Undojo. Could I join one of your sessions that week?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-たか-tennis-bear-chat",
+   "name": "たか (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に千駄ヶ谷の近くに滞在します。外濠公園の中上級ダブルス、試合に出ている方向けとのことで、ぜひご一緒したいです。その週に開催があれば参加させていただけますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm near Sendagaya Dec 14-19. Your Sotobori Park doubles for regular match players sounds great. Could I join one that week?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-キミ-tennis-bear-chat",
    "name": "キミ (Tennis Bear chat)",
    "city": "Tokyo",
