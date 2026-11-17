@@ -1795,6 +1795,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-ビックシンク-浅草-tennis-bear-chat",
+   "name": "ビックシンク 浅草 (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に東京に滞在します。その週に中級以上練習会に参加させていただくか、斉藤コーチと1時間ほど打たせていただくことは可能でしょうか?料金はお支払いします。\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19. Could I join one of your advanced sessions at ROX that week, or book an hour hitting with Coach Saito? Happy to pay.",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-tennisuru-2-シゲさん-tennis-bear-chat",
+   "name": "TenniSuRu-2- シゲさん (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズ、UTR 9前後)。12月14日〜19日に東京にいます。上井草の朝練に1回参加させていただけないでしょうか?ボールも持参します。\n\nHi Shige! I'm Jerry, LA-based, ITF futures player (UTR ~9). I'm in Tokyo Dec 14-19. Any chance I could join one of your Kamiigusa morning sessions that week? I'll bring balls.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-そえじーコーチ-x-com-naokisoeji-x-dm",
    "name": "そえじーコーチ x.com/naokisoeji (X DM)",
    "city": "Tokyo",
