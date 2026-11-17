@@ -486,6 +486,26 @@
    ]
   },
   {
+   "id": "ph-coach-momo-messenger",
+   "name": "Coach Momo (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Momo! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw you've been hitting with visiting players at Asmara, looks like a great setup. I'm in Manila from this weekend for PCA qualies, Cebu after. Could I book a session or hit with some of your stronger players when I'm in Cebu?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-coach-aileen-messenger",
+   "name": "Coach Aileen (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Aileen! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw your Swing Lane session in Cavite, fun to see. I'm in Manila from this weekend for PCA qualies, Cebu after. Do you know any strong players in Pasig who'd want to hit one evening?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-eric-messenger",
    "name": "Coach Eric (Messenger)",
    "city": "Philippines",
@@ -1903,6 +1923,22 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-vamoswatanabe",
+   "name": "Vamos! Watanabe / (IG DM)",
+   "city": "Tokyo",
+   "role": "tennis comedian and creator",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。テネス展示会の投稿、楽しく拝見しました!12月14日〜19日に東京(千駄ヶ谷付近)に滞在します。もしご都合が合えば、その週に一緒に打っていただけませんか?動画のネタにも喜んでお付き合いします。\n\nHi Vamos! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Loved the Tenes showroom post. I'm in Tokyo Dec 14-19 near Sendagaya. Would you be up for a hit that week? Happy to be in a video too.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/vamoswatanabe"
+    }
+   ],
+   "new": true,
+   "handle": "vamoswatanabe"
   },
   {
    "id": "jp-sayobaby",
