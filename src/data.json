@@ -1721,6 +1721,22 @@
    "fit": "contain"
   },
   {
+   "id": "jp-TenniFan",
+   "name": "古村賢紀 (X DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "古村さん、はじめまして。LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。11月16日の「4-4、30-30でのセカンドサーブ」の投稿、とても共感しました。12月14日〜19日に東京(千駄ヶ谷近く)に滞在するのですが、その週に古村さんの練習会があれば参加させていただけますか?有料のヒッティングでも大歓迎です。\n\nHi Komura-san! I'm Jerry, an LA-based UCLA alum playing ITF futures (UTR ~9). Really liked your Nov 16 post on what goes through your head at 4-4, 30-30. I'm in Tokyo Dec 14-19 near Sendagaya; if you have a practice session that week could I join? Happy to pay for a hit too.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/TenniFan"
+    }
+   ],
+   "new": true,
+   "handle": "TenniFan"
+  },
+  {
    "id": "jp-asiautennis",
    "name": "Asia University tennis team (Instagram DM)",
    "city": "Tokyo",
