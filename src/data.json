@@ -1657,6 +1657,38 @@
    "fit": "contain"
   },
   {
+   "id": "jp-ms_tennisteam",
+   "name": "MS Green Orcas (Instagram DM)",
+   "city": "Tokyo",
+   "role": "Mitsui Sumitomo Insurance tennis team",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。関東実業団のシングルスで勝敗が決まった試合のハイライト、熱かったです!12月14日〜19日に東京(千駄ヶ谷近く)に滞在するのですが、その週にチームの練習があれば1回参加させていただけないでしょうか?\n\nHi! I'm Jerry, an LA-based UCLA alum playing ITF futures (UTR ~9). Loved the Kanto corporate league highlight where it came down to singles. I'm in Tokyo Dec 14-19 near Sendagaya; if the team trains that week, could I join a session once?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/ms_tennisteam"
+    }
+   ],
+   "new": true,
+   "handle": "ms_tennisteam"
+  },
+  {
+   "id": "jp-haru_tennis__",
+   "name": "Haruto (Instagram DM)",
+   "city": "Saitama",
+   "role": "はると",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズ、UTR 9前後)。東京実業団秋リーグ1部優勝おめでとうございます!12月14日〜19日に東京(千駄ヶ谷近く)にいるので、もしよければその週に一度打ちませんか?\n\nHey Haruto! I'm Jerry, LA-based UCLA alum playing futures (UTR ~9). Congrats on winning Division 1 of the Tokyo corporate autumn league! Saw you spent time in the US too. I'm in Tokyo Dec 14-19 near Sendagaya; down to hit once that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/haru_tennis__"
+    }
+   ],
+   "new": true,
+   "handle": "haru_tennis__"
+  },
+  {
    "id": "jp-tennis_shall_we",
    "name": "shall we tennis? (Instagram DM)",
    "city": "Tokyo",
