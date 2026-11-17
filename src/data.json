@@ -1488,6 +1488,36 @@
    "fit": "contain"
   },
   {
+   "id": "jp-hiroyuki-tennis-bear-chat",
+   "name": "HIROYUKI (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。世田谷総合運動場でのシングルス練習会を拝見しました。12月14日〜19日に東京に滞在するので、その週に開催があればぜひ参加させていただけますか?\n\nHi Hiroyuki! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw your singles sessions at Setagaya, and you're on the Defyer 98 Pro now, nice. I'm in Tokyo Dec 14-19; any chance I could join one that week?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-hnaka-tennis-bear-chat",
+   "name": "hnaka (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。平和の森公園でのシングルス練習会を拝見しました。12月14日〜19日に東京に滞在するので、その週の練習会に参加させていただけますか?\n\nHi! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Your Heiwa no Mori singles sessions look great. I'm in Tokyo Dec 14-19; could I join one that week?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-irema-tennis-bear-chat",
+   "name": "irema (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。多摩川コートでの早朝練習会を拝見しました。12月14日〜19日に東京に滞在するので、その週に開催があれば参加させていただけますか?\n\nHi! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Saw your early morning sessions at Tamagawa. I'm in Tokyo Dec 14-19; any chance I could join one that week?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-有明シングラー-tennis-bear-chat-to-ryo",
    "name": "有明シングラー (Tennis Bear chat to Ryo)",
    "city": "Tokyo",
