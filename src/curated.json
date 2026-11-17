@@ -1,0 +1,937 @@
+{
+ "updated": "2026-11-17",
+ "ph": [
+  {
+   "id": "alex",
+   "name": "Alex",
+   "handle": "alexdantipapa",
+   "img": "alexdantipapa.jpg",
+   "city": "Manila",
+   "role": "Host, PCA entry",
+   "status": "FB unread",
+   "action": "TEXT",
+   "send": "Hi Alex, I saw your Facebook messages but can't open them yet. Did Adelmo confirm for when I land? Also, am I on the PCA qualifying list, and was the ₱1,200 paid? What is Axel's last name, the one who beat Brian at Delano? And do you know when PCA doubles starts, for Tom?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/alexdantipapa/"
+    }
+   ]
+  },
+  {
+   "id": "adelmo",
+   "name": "Adelmo",
+   "city": "Manila",
+   "role": "Host, Makati stay",
+   "action": "TEXT",
+   "send": "Hi! This is Jerry, Alex Marcial's friend from LA. Thank you so much for hosting me. I land Saturday Nov 21 at 10:45 PM on Philippine Airlines PR123. It's a standby ticket, so I'll confirm the night before. I'm bringing the strings and things from Alex. Salamat!",
+   "links": []
+  },
+  {
+   "id": "michael",
+   "name": "Michael",
+   "city": "Manila",
+   "role": "Polo Club doubles",
+   "action": "TEXT",
+   "send": "Hi Michael, Jerry here, Alex Marcial's friend from LA. I'm in Manila from Nov 29 for the PCA Open. Would love to play doubles at Polo with you and Tito Romy if a day works. Salamat!",
+   "links": []
+  },
+  {
+   "id": "drexler",
+   "name": "Drexler",
+   "city": "LA",
+   "role": "Intro to PJ Tierro",
+   "action": "TEXT",
+   "send": "Hey Drexler, going to reach out to PJ Tierro like you said. Mind giving him a heads up or sending me his number? I fly out Friday",
+   "links": []
+  },
+  {
+   "id": "marvin",
+   "name": "Marvin",
+   "handle": "racketoncourt",
+   "img": "racketoncourt.jpg",
+   "city": "Manila",
+   "role": "Creator, arranges courts",
+   "status": "Seen, no reply",
+   "action": "SEND",
+   "send": "Hey Marvin, saw your Asmara coverage, sick. Plan is set now: Cebu Nov 22 to 28, then back in Manila Nov 29 through the PCA. Any day you're free to hit I'm down",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/racketoncourt"
+    }
+   ]
+  },
+  {
+   "id": "chris",
+   "name": "Chris Papa",
+   "handle": "chrispapa01",
+   "img": "chrispapa01.jpg",
+   "city": "LA",
+   "role": "Fil-Am pro, connector",
+   "action": "SEND",
+   "send": "Hey Chris, it's locked in. Cebu Nov 22 to 28, then Manila from Nov 29 for PCA qualies. If you can connect me with a couple guys to hit with that'd be huge. Also Arthur hasn't seen my msg, think it's stuck in requests",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/chrispapa01"
+    }
+   ]
+  },
+  {
+   "id": "francis",
+   "name": "Francis Lera",
+   "handle": "coachlerafrancis",
+   "img": "coachlerafrancis.jpg",
+   "city": "Manila",
+   "role": "ITF coach, ProServe",
+   "action": "SEND",
+   "send": "Hi Coach Francis, I'm Jerry, played at UCLA and I play futures out of LA. I'm in Manila for PCA qualies Nov 30. Could I book a couple hitting sessions with you at ProServe Nov 29 to Dec 3? What's your rate? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/coachlerafrancis"
+    },
+    {
+     "label": "Book",
+     "url": "https://proservemanila.com"
+    },
+    {
+     "label": "Map",
+     "url": "https://www.google.com/maps/search/?api=1&query=ProServe+Manila+2123+Suter+Santa+Ana+Manila"
+    }
+   ]
+  },
+  {
+   "id": "asmara",
+   "name": "Asmara Tennis",
+   "handle": "ata_association",
+   "img": "ata_association.jpg",
+   "fit": "contain",
+   "city": "Cebu",
+   "role": "Clay courts, Banilad",
+   "action": "SEND",
+   "send": "Hi! I'm Jerry from LA, played at UCLA and I play futures. Great Asmara Open this week. I'm in Cebu Nov 22 to 28 and want to train on your clay before PCA qualies. Can I book courts, and do you know any players who'd want to hit? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/ata_association"
+    },
+    {
+     "label": "Book",
+     "url": "https://asmara-tennis-association.rezerv.co"
+    },
+    {
+     "label": "Call",
+     "url": "tel:+639177081079"
+    }
+   ]
+  },
+  {
+   "id": "matchpoint",
+   "name": "MatchPoint Cebu",
+   "handle": "mptenniscebu",
+   "img": "mptenniscebu.jpg",
+   "fit": "contain",
+   "city": "Cebu",
+   "role": "Coaching, clay court",
+   "action": "SEND",
+   "send": "Hi! I'm Jerry from LA, I play futures. I'm in Cebu Nov 22 to 28 getting ready for PCA qualies on clay. Can I book the Paseo Saturnino clay court with a coach or hitter for a few sessions? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/mptenniscebu"
+    },
+    {
+     "label": "Book",
+     "url": "https://matchpoint-cebu.odoo.com/"
+    },
+    {
+     "label": "Map",
+     "url": "https://www.google.com/maps/search/?api=1&query=Paseo+Saturnino+Cebu"
+    }
+   ]
+  },
+  {
+   "id": "niegel",
+   "name": "Niegel",
+   "handle": "niegeldilemma",
+   "img": "niegeldilemma.jpg",
+   "city": "Cebu",
+   "role": "Friend, Siargao Tennis Club",
+   "status": "Seen, no reply",
+   "action": "SEND",
+   "send": "Hey Niegel, dates are set, I'm in Cebu Nov 22 to 28. I'll be hitting at Asmara most days if you want to come by",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/niegeldilemma"
+    }
+   ]
+  },
+  {
+   "id": "pj",
+   "name": "PJ Tierro",
+   "handle": "pj_tierro",
+   "img": "pj_tierro.jpg",
+   "city": "LA",
+   "role": "Coach, Lakewood",
+   "status": "Backup",
+   "action": "SEND",
+   "send": "Hi PJ, I'm Jerry, I hit with Drexler Dy in Carson and he said to reach out. I'm heading to the Philippines this weekend, Cebu Nov 22 to 28 then Manila for PCA qualies Nov 30. Do you know any players or coaches I should train with there? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/pj_tierro"
+    }
+   ]
+  },
+  {
+   "id": "whismark",
+   "name": "Whismark",
+   "handle": "whismaaark",
+   "img": "whismaaark.jpg",
+   "city": "Manila",
+   "role": "Coach, Valle Verde",
+   "action": "SEND",
+   "send": "Hi Coach Whismark, I'm Jerry from LA, played at UCLA. I'm in Manila Nov 29 for PCA qualies. Saw you coach at Valle Verde, could I book a hitting session with you that week? Do I need a member to get in? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/whismaaark"
+    }
+   ]
+  },
+  {
+   "id": "jrm",
+   "name": "John Rey",
+   "handle": "jrmtennis",
+   "img": "jrmtennis.jpg",
+   "city": "Manila",
+   "role": "ITF coach, Benilde",
+   "action": "SEND",
+   "send": "Hi Coach John Rey, I'm Jerry from LA, played at UCLA and I'm playing PCA qualies Nov 30. Saw your Polo Club dual meet post. Are you around that week for a hitting session? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/jrmtennis"
+    }
+   ]
+  },
+  {
+   "id": "ajlim",
+   "name": "AJ Lim",
+   "handle": "ajlimofficial",
+   "img": "ajlimofficial.jpg",
+   "city": "Manila",
+   "role": "PH No. 1",
+   "action": "SEND",
+   "send": "Hi AJ, I'm Jerry, played at UCLA and I play futures out of LA. Watched the Asmara final. I'm in Manila from Nov 29 for PCA qualies and would love to hit once if you have time. Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/ajlimofficial"
+    }
+   ]
+  },
+  {
+   "id": "jed",
+   "name": "Jed Olivarez",
+   "handle": "jeddyboy109",
+   "img": "jeddyboy109.jpg",
+   "city": "Cebu",
+   "role": "PH No. 2, Asmara champ",
+   "action": "SEND",
+   "send": "Hi Jed, I'm Jerry from LA, I play futures too. Congrats on Asmara! I'm in Cebu Nov 22 to 28 and Manila for PCA qualies from Nov 29. If you're around either place I'd love to hit. Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/jeddyboy109"
+    }
+   ]
+  },
+  {
+   "id": "nino",
+   "name": "Niño Alcantara",
+   "handle": "ninotennis",
+   "img": "ninotennis.jpg",
+   "city": "Manila",
+   "role": "Pro, SEA Games gold",
+   "action": "SEND",
+   "send": "Hi Niño, I'm Jerry, played at UCLA and now play futures out of LA. I'm in Manila Nov 29 through the PCA on clay. Would you be down to hit once if you're around? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/ninotennis"
+    }
+   ]
+  },
+  {
+   "id": "mmt",
+   "name": "Metro Manila Tennis",
+   "handle": "metromanilatennis",
+   "img": "metromanilatennis.jpg",
+   "fit": "contain",
+   "city": "Manila",
+   "role": "Open plays",
+   "action": "SEND",
+   "send": "Hi! I'm Jerry from LA, played at UCLA. I'm in Manila Nov 29 to Dec 13. Can I join one of your open plays that week? Salamat!",
+   "links": [
+    {
+     "label": "Reclub",
+     "url": "https://reclub.co/clubs/@metro-manila-tennis"
+    }
+   ]
+  },
+  {
+   "id": "cebuelite",
+   "name": "Cebu Elite TC",
+   "handle": "cebuelitetennisclub",
+   "img": "cebuelitetennisclub.jpg",
+   "fit": "contain",
+   "city": "Cebu",
+   "role": "Open plays at Asmara",
+   "action": "SEND",
+   "send": "Hi! I'm Jerry from LA, played at UCLA. I'm in Cebu Nov 22 to 28. Can I join one of your open plays at Asmara that week? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/cebuelitetennisclub"
+    },
+    {
+     "label": "Reclub",
+     "url": "https://reclub.co/clubs/@cebu-elite-tennis-club"
+    }
+   ]
+  },
+  {
+   "id": "skip",
+   "name": "Skip Tan",
+   "handle": "skip.tan",
+   "img": "skip.tan.jpg",
+   "city": "Manila",
+   "role": "Creator, open plays",
+   "action": "SEND",
+   "send": "Hi Skip, I'm Jerry, played at UCLA and I play futures out of LA. I'm in Manila Nov 29 to Dec 13 for the PCA Open. Down to hit and film something at one of your open plays? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/skip.tan"
+    }
+   ]
+  },
+  {
+   "id": "carl",
+   "name": "Carl Ubalde",
+   "handle": "cbu_tennis",
+   "img": "cbu_tennis.jpg",
+   "city": "Manila",
+   "role": "ITF coach, creator",
+   "action": "SEND",
+   "send": "Hi Coach Carl, I'm Jerry from LA, played at UCLA. Saw your Makati Shang sessions. I'm in Manila Nov 29 to Dec 13 for PCA qualies. Down to hit and shoot some content one day? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/cbu_tennis"
+    }
+   ]
+  },
+  {
+   "id": "siargao",
+   "name": "Siargao Tennis Club",
+   "handle": "thesiargaotennisclub",
+   "img": "thesiargaotennisclub.jpg",
+   "fit": "contain",
+   "city": "Siargao",
+   "role": "General Luna",
+   "status": "Hold",
+   "action": "SEND",
+   "send": "Hi! I'm Jerry from LA, played at UCLA. Found you through Niegel Delima. I might come to Siargao in early December. Can I book the court and is there anyone good around to hit with? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/thesiargaotennisclub"
+    }
+   ]
+  },
+  {
+   "id": "johnny",
+   "name": "Johnny Arcilla",
+   "handle": "johnnyarcilla1",
+   "img": "johnnyarcilla1.jpg",
+   "city": "Manila",
+   "role": "Davis Cup coach",
+   "action": "SEND",
+   "send": "Hi Johnny, I'm Jerry from LA. Alex Marcial from Friends of Philippine Tennis has been helping me get ready for PCA qualies Nov 30. Do you know a good group to hit with in Manila that week? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/johnnyarcilla1"
+    }
+   ]
+  },
+  {
+   "id": "ruben",
+   "name": "Ruben Gonzales",
+   "handle": "rubenninogonzales",
+   "img": "rubenninogonzales.jpg",
+   "city": "Cebu",
+   "role": "Pro, tennis and pickleball",
+   "action": "SEND",
+   "send": "Hi Ruben, I'm Jerry, I play futures out of LA. I'm in Cebu Nov 22 to 28 and Manila for the PCA from Nov 29. If you're still hitting tennis either week I'd love to join. Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/rubenninogonzales"
+    }
+   ]
+  },
+  {
+   "id": "tua",
+   "name": "Tennis United",
+   "handle": "tennisunitedacademy",
+   "img": "tennisunitedacademy.jpg",
+   "fit": "contain",
+   "city": "Manila",
+   "role": "Coaching, Makati and BGC",
+   "action": "SEND",
+   "send": "Hi, I'm Jerry from LA, played at UCLA. I'm in Manila Nov 29 to Dec 13 for the PCA Open. Does Coach Andy or Coach Felipe have any 1-on-1 hitting slots that week? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/tennisunitedacademy"
+    }
+   ]
+  },
+  {
+   "id": "czar",
+   "name": "Coach Czar",
+   "handle": "coach_czar",
+   "img": "coach_czar.jpg",
+   "city": "Manila",
+   "role": "National coach, Alabang",
+   "action": "SEND",
+   "send": "Hi Coach Czar, I'm Jerry from LA, played at UCLA. I'm in Manila Nov 29 for PCA qualies. Any chance you have a slot for a hitting session at Alabang that week? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/coach_czar"
+    }
+   ]
+  },
+  {
+   "id": "everybodi",
+   "name": "everybodi",
+   "handle": "everybodi.mnl",
+   "img": "everybodi.mnl.jpg",
+   "fit": "contain",
+   "city": "Manila",
+   "role": "Match plays",
+   "action": "SEND",
+   "send": "Hi! I'm Jerry from LA, played at UCLA. I'm in Manila Nov 29 to Dec 13. Saw your match plays, can I join one that week? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/everybodi.mnl"
+    }
+   ]
+  },
+  {
+   "id": "dyan",
+   "name": "Dyan Castillejo",
+   "handle": "dyancastillejo",
+   "img": "dyancastillejo.jpg",
+   "city": "Manila",
+   "role": "ABS-CBN sports anchor",
+   "action": "SEND",
+   "send": "Hi Dyan, I'm Jerry from LA, played at UCLA. Alex Marcial's Friends of Philippine Tennis is helping me get to PCA qualies Nov 30. Who would you go to for good hitting partners in Manila? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/dyancastillejo"
+    }
+   ]
+  },
+  {
+   "id": "tennislab",
+   "name": "Tennis Lab Cebu",
+   "handle": "tennislab_cebuph",
+   "img": "tennislab_cebuph.jpg",
+   "fit": "contain",
+   "city": "Cebu",
+   "role": "Coaching",
+   "action": "SEND",
+   "send": "Hi! I'm Jerry from LA, played at UCLA. I'm in Cebu Nov 22 to 28. Do you have a coach free for a couple of hitting sessions that week? Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/tennislab_cebuph"
+    }
+   ]
+  },
+  {
+   "id": "steffi",
+   "name": "Steffi Lucero",
+   "handle": "stefferoni",
+   "img": "stefferoni.jpg",
+   "city": "Manila",
+   "role": "Host, tennis videos",
+   "action": "SEND",
+   "send": "Hi Steffi, I'm Jerry, a tennis player from LA. I'm in Manila Nov 29 to Dec 13 for the PCA Open. If you're ever filming tennis that week I'd love to hit. Salamat!",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/stefferoni"
+    }
+   ]
+  }
+ ],
+ "jp": [
+  {
+   "id": "emon",
+   "name": "Emon",
+   "handle": "emon.vanlobensels",
+   "img": "emon.vanlobensels.jpg",
+   "city": "Tokyo",
+   "role": "UCLA, trains in Tokyo",
+   "action": "SEND",
+   "send": "Hey Emon! I'll be in Tokyo Dec 15-19 with Tom. You still train out there? If you're home for break I'd love to hit one of those days, and I'm down to pay for courts. Also open to any hitting partner you'd recommend.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/emon.vanlobensels"
+    }
+   ]
+  },
+  {
+   "id": "shingo",
+   "name": "Shingo",
+   "handle": "sng1980",
+   "img": "sng1980.jpg",
+   "fit": "contain",
+   "city": "Tokyo",
+   "role": "Setinn, Sendagaya",
+   "status": "Waiting on dates",
+   "action": "SEND",
+   "send": "しんごさん！トーナメント（マニラのPCA Open）の後、12月14日の夜に東京に着く予定です。12月15日〜19日の間でご都合のいい日はありますか？お店に伺って、もしよければ一緒にテニスもしたいです。トーナメントで早く負けたら、12月5日頃に早めに行けるかもしれません。\n\nShingo! After my tournament in Manila I'm planning to land in Tokyo the night of Dec 14. Is any day Dec 15–19 good for you? I'd love to stop by the shop and hit if you're up for it. If I lose early, I might come earlier, around Dec 5.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/sng1980"
+    },
+    {
+     "label": "Map",
+     "url": "https://www.google.com/maps/search/?api=1&query=Setinn+3-51-10+Sendagaya+Shibuya+Tokyo"
+    }
+   ]
+  },
+  {
+   "id": "jinji",
+   "name": "Jinji Tennis",
+   "city": "Tokyo",
+   "role": "Shai Gigi, hitting partners",
+   "action": "EMAIL",
+   "subject": "Visiting player, Dec 15-19, hitting partner or private",
+   "send": "Hi Shai,\n\nI'm Jerry Shi, a former UCLA men's tennis team manager from LA. I play ITF Futures (about UTR 9). I'm in Tokyo Dec 15-19 and saw Jinji offers Hitting with the Pro and a hitting partner program. Could I book one or two sessions those days? Please let me know times, venue and price.\n\nシャイさん、はじめまして。LAのJerry Shiです。12月15日〜19日に東京にいます。ヒッティングパートナーかプライベートレッスンを1〜2回お願いできますか？時間、場所、料金を教えてください。\n\nThanks,\nJerry",
+   "links": [
+    {
+     "label": "Email",
+     "url": "mailto:jinji.tennis1@gmail.com"
+    },
+    {
+     "label": "Site",
+     "url": "https://www.jinjitennis.org/"
+    }
+   ]
+  },
+  {
+   "id": "tti",
+   "name": "Tokyo Tennis Intl",
+   "city": "Tokyo",
+   "role": "Ken Oishi, Filip Koziell",
+   "action": "EMAIL",
+   "subject": "Visiting player Dec 15-19, one session with Ken Oishi",
+   "send": "Hi TTI team,\n\nI'm Jerry Shi from LA, a former UCLA men's tennis team manager now playing ITF Futures (about UTR 9). I'm in Tokyo Dec 15-19. Could I book one private session with Ken Oishi, or another performance coach if he's busy? I'd want to work on serve and first-ball patterns. What venue and rate would apply for a visitor?\n\n12月15日〜19日に東京にいます。大石コーチのプライベートレッスンを1回お願いできますか？ビジター向けの場所と料金を教えてください。\n\nThanks,\nJerry",
+   "links": [
+    {
+     "label": "Email",
+     "url": "mailto:info@tokyotennisinternational.com"
+    },
+    {
+     "label": "Coaches",
+     "url": "https://www.tokyotennisinternational.com/coaches"
+    }
+   ]
+  },
+  {
+   "id": "keisuke",
+   "name": "Keisuke Ota",
+   "handle": "keisuke___ota",
+   "img": "keisuke___ota.jpg",
+   "city": "Saitama",
+   "role": "Pro, lessons",
+   "action": "SEND",
+   "send": "太田さん、はじめまして。LAでテニスをしているJerry Shiです（UCLAテニス部の元マネージャーで、今はITF Futuresに出ています。UTR 9くらいです）。12月15日〜19日に東京に行きます。その間に有料でヒッティングかレッスンをお願いできますか？料金と場所を教えていただけるとうれしいです。\n\nHi Keisuke, I'm Jerry from LA (ex UCLA tennis manager, now playing ITF Futures, about UTR 9). I'm in Tokyo Dec 15-19. Could I book a paid hit or lesson with you one of those days? What's your rate and where do you usually play?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/keisuke___ota"
+    }
+   ]
+  },
+  {
+   "id": "shota",
+   "name": "Shota Konishi",
+   "handle": "shotakonishi.tennis",
+   "img": "shotakonishi.tennis.jpg",
+   "city": "Saitama",
+   "role": "Prize-money match videos",
+   "action": "SEND",
+   "send": "小西さん、はじめまして。LAのJerry Shiです。UCLAテニス部の元マネージャーで、今はITF Futuresに出ています。賞金大会の試合動画、いつも参考になります。12月15日〜19日に東京にいるので、ヒッティングか練習試合をお願いできませんか？料金はお支払いします。よければ撮影してお互いのチャンネルで使うのも大丈夫です。\n\nHi Shota, Jerry from LA here (ex UCLA tennis manager, playing ITF Futures). I like your prize-money match videos. I'm in Tokyo Dec 15-19. Could we do a paid hit or practice set? Happy for you to film it for your channel too.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/shotakonishi.tennis"
+    }
+   ]
+  },
+  {
+   "id": "iori",
+   "name": "Iori Yoshida",
+   "handle": "iori_legend",
+   "img": "iori_legend.jpg",
+   "city": "Japan",
+   "role": "iori legend, 57.7K on YouTube",
+   "action": "EMAIL",
+   "subject": "12月東京 対戦企画のご相談 / Match video idea, Dec 15-19",
+   "send": "吉田伊織様\n\nはじめまして。LAのJerry Shiと申します。UCLAテニス部の元マネージャーで、現在はITF Futuresに出場しています（UTR 9前後）。Felixさんとの試合動画も拝見しました。12月15日〜19日に東京に滞在しますので、対戦動画をご一緒できないでしょうか。日程は合わせます。\n\nHi Iori, I'm Jerry Shi from LA, ex UCLA tennis manager now playing ITF Futures. I saw your match with Felix. I'm in Tokyo Dec 15-19. Would you be up for filming a match? I'll fit your schedule.\n\nJerry Shi\nIG @jerrythegoatshi",
+   "links": [
+    {
+     "label": "YouTube",
+     "url": "https://www.youtube.com/@iorilegend/about"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/iori_legend"
+    }
+   ]
+  },
+  {
+   "id": "sari",
+   "name": "Sari Baba",
+   "handle": "mahoutukaisally",
+   "img": "mahoutukaisally.jpg",
+   "city": "Tokyo",
+   "role": "Former pro, B LYNC",
+   "action": "SEND",
+   "send": "馬場さん、はじめまして。LAのJerry Shiです。UCLAテニス部の元マネージャーで、今はITF Futuresに出ています。12月15日〜19日に東京にいるので、プライベートレッスンをお願いしたいです。もし興味があれば、アメリカから来た選手とのレッスンを撮影していただいても大丈夫です。日程と料金を教えていただけますか？\n\nHi Sari, I'm Jerry from LA (ex UCLA tennis manager, playing ITF Futures). I'm in Tokyo Dec 15-19 and would love a private lesson. If it's useful, you're welcome to film it as a visiting-player video. Could you share availability and the rate?",
+   "alt": {
+    "label": "LINE",
+    "send": "はじめまして。馬場早莉コーチのプライベートレッスンを希望します。上級者（ITF Futures出場、UTR 9前後）で、東京に旅行中です。希望日時：①12月16日（水）午前 ②12月17日（木）午後 ③12月18日（金）午前。コートの手配もお願いできますか？料金も教えてください。Jerry Shi"
+   },
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/mahoutukaisally"
+    },
+    {
+     "label": "LINE",
+     "url": "https://lin.ee/OPvNUpe"
+    }
+   ]
+  },
+  {
+   "id": "star",
+   "name": "Star Tennis Academy",
+   "handle": "star_tennis_academy_official",
+   "img": "star_tennis_academy_official.jpg",
+   "fit": "contain",
+   "city": "Tokyo",
+   "role": "スタテニ, 269K on YouTube",
+   "action": "SEND",
+   "send": "スタテニ運営スタッフ様、はじめまして。LAのJerry Shiと申します。UCLAテニス部の元マネージャーで、現在はITF Futuresに出場しています（UTR 9前後）。12月15日〜19日に東京に滞在します。「アメリカから来たFutures選手」として、企画や対戦動画に参加できる機会があればぜひお願いしたいです。ご検討いただけますでしょうか。\n\nHi Star Tennis Academy team, I'm Jerry Shi from LA, ex UCLA tennis manager now playing ITF Futures (about UTR 9). I'm in Tokyo Dec 15-19. If a \"visiting US Futures player\" match or challenge would fit a video, I'd love to take part.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/star_tennis_academy_official"
+    }
+   ]
+  },
+  {
+   "id": "leone",
+   "name": "LEONE Cup",
+   "handle": "leone_tennis",
+   "img": "leone_tennis.jpg",
+   "fit": "contain",
+   "city": "Tokyo",
+   "role": "Tournament organizer",
+   "action": "SEND",
+   "send": "はじめまして。LAから来るJerry Shiです（ITF Futures出場、UTR 9前後）。12月15日〜19日に東京にいます。その期間に男子オープンのシングルス大会はありますか？海外在住でもエントリーできますか？\n\nHi, I'm Jerry from LA (ITF Futures player, about UTR 9), in Tokyo Dec 15-19. Do you have any men's open singles events those days, and can a visitor living overseas enter?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/leone_tennis"
+    }
+   ]
+  },
+  {
+   "id": "kazumax",
+   "name": "Kazumax",
+   "handle": "kzm52tennis",
+   "img": "kzm52tennis.jpg",
+   "city": "Japan",
+   "role": "Coach, daily shorts",
+   "action": "SEND",
+   "send": "カズマックスさん、はじめまして。LAのJerry Shiです。UCLAテニス部の元マネージャーで、今はITF Futuresに出ています。毎日のショート、見ています。12月15日〜19日に東京に行くので、対戦かヒッティングの動画を一緒に撮れませんか？\n\nHi Kazumax, Jerry from LA (ex UCLA tennis manager, playing ITF Futures). I watch your daily shorts. I'm in Tokyo Dec 15-19. Want to film a match or hitting session together?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/kzm52tennis"
+    }
+   ]
+  },
+  {
+   "id": "tomoyan",
+   "name": "Tomoyan",
+   "city": "Japan",
+   "role": "Coach, 108K on YouTube",
+   "action": "EMAIL",
+   "subject": "12月15日〜19日 レッスンのご相談",
+   "send": "ともやんコーチ\n\nはじめまして。LAのJerry Shiです（UCLAテニス部元マネージャー、ITF Futures出場）。12月15日〜19日に東京にいます。レッスンかヒッティングを1回お願いできますか？場所と料金を教えてください。撮影していただくのも大歓迎です。\n\nHi Tomoyan, I'm Jerry from LA (ex UCLA tennis manager, playing Futures). I'm in Tokyo Dec 15-19. Could I book one lesson or hit? Happy for it to be filmed.\n\nJerry Shi (IG @jerrythegoatshi)",
+   "links": [
+    {
+     "label": "YouTube",
+     "url": "https://www.youtube.com/@tomoyan_tennis/about"
+    }
+   ]
+  },
+  {
+   "id": "mizushina",
+   "name": "Mizushina",
+   "city": "Japan",
+   "role": "エムテニ, coach",
+   "action": "EMAIL",
+   "subject": "12月15日〜19日 プライベートレッスン",
+   "send": "水品コーチ\n\nはじめまして。LAのJerry Shiです（ITF Futures出場、UTR 9前後）。12月15日〜19日に東京にいます。プライベートレッスンか練習試合をお願いできますか？場所と料金を教えてください。\n\nHi, I'm Jerry from LA, playing ITF Futures. In Tokyo Dec 15-19. Could I book a private lesson or practice match? Where and how much?\n\nJerry Shi",
+   "links": [
+    {
+     "label": "Email",
+     "url": "mailto:info@m-teni.jp"
+    },
+    {
+     "label": "YouTube",
+     "url": "https://www.youtube.com/@m-teni"
+    }
+   ]
+  },
+  {
+   "id": "robert",
+   "name": "Robert",
+   "city": "Tokyo",
+   "role": "UCLA Japan Network",
+   "action": "EMAIL",
+   "subject": "UCLA alum visiting Tokyo Dec 15-19",
+   "send": "Hi Robert,\n\nI'm Jerry Shi, a UCLA alum and former men's tennis team manager, now in sports data at LA Galaxy. I found your email on the UCLA Japan Network page. I'm in Tokyo Dec 15-19. Is there a Bruin you'd suggest I meet, ideally someone who plays tennis?\n\nロバート様、UCLA卒業生のJerry Shiです。12月15日〜19日に東京にいます。テニスをするブルーインの方がいらっしゃれば、ご紹介いただけるとうれしいです。\n\nThanks,\nJerry",
+   "links": [
+    {
+     "label": "UCLA page",
+     "url": "https://alumni.ucla.edu/network/japan-network/"
+    }
+   ]
+  },
+  {
+   "id": "agstyle",
+   "name": "AgStyle Tennis",
+   "handle": "agstylevideos",
+   "img": "agstylevideos.jpg",
+   "city": "Japan",
+   "role": "College match films",
+   "action": "EMAIL",
+   "subject": "大学テニス動画について / UCLA tennis, in Tokyo Dec 15-19",
+   "send": "AgStyle様\n\nはじめまして。UCLAテニス部の元マネージャーで、今はLAでスポーツのデータの仕事をしているJerry Shiです。日本の大学テニスの動画をいつも見ています。12月15日〜19日に東京にいますので、もしご都合が合えば撮影現場を見学させていただけませんか？全日本選手権に来られる予定はありますか？\n\nHi, I'm Jerry, ex UCLA tennis manager now in sports data in LA. I follow your college match coverage. I'm in Tokyo Dec 15-19. Will you be filming at the All-Japan Championships? I'd love to say hi there.",
+   "links": [
+    {
+     "label": "Email",
+     "url": "mailto:agstylevideos@gmail.com"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/agstylevideos/"
+    }
+   ],
+   "fit": "contain"
+  }
+ ],
+ "plan": [
+  {
+   "id": "captain",
+   "kind": "message",
+   "big": "ZED",
+   "name": "Captain",
+   "line": "Standby listing · send now",
+   "action": "SEND",
+   "send": "Hi! Can you change my ZED standby listing to:\n1) PR123 Fri Nov 20 LAX 3:10 PM → Manila (arr Sat 10:45 PM)\n2) PR1867 Sun Nov 22 Manila 1:55 PM → Cebu\n3) PR1880 Sat Nov 28 Cebu 9:50 PM → Manila\n\nPR123 looks much emptier than PR103, which is down to its last fare class. Backups: PR103 Sat Nov 21 for LAX, PR1861 Sun Nov 22 7:40 PM for Cebu.\nCould you confirm once the listings are in? Thank you!",
+   "links": []
+  },
+  {
+   "id": "pr123",
+   "kind": "flight",
+   "big": "LAX → MNL",
+   "date": "Fri Nov 20",
+   "name": "PR123",
+   "line": "3:10 PM → Sat Nov 21, 10:45 PM",
+   "action": "BACKUP",
+   "text": "PR103 Sat Nov 21, 10:05 PM",
+   "links": [
+    {
+     "label": "eTravel",
+     "url": "https://etravel.gov.ph"
+    }
+   ]
+  },
+  {
+   "id": "pr1867",
+   "kind": "flight",
+   "big": "MNL → CEB",
+   "date": "Sun Nov 22",
+   "name": "PR1867",
+   "line": "1:55 PM → 3:20 PM · NAIA Terminal 2",
+   "action": "BACKUP",
+   "text": "PR1861, 7:40 PM",
+   "links": []
+  },
+  {
+   "id": "cebu-stay",
+   "kind": "stay",
+   "big": "CEBU",
+   "date": "Nov 23–28",
+   "name": "Studio, IT Park",
+   "line": "Lahug · $90",
+   "action": "STAY",
+   "text": "Studio near IT Park, Lahug",
+   "links": [
+    {
+     "label": "Book",
+     "url": "https://www.booking.com/searchresults.html?ss=IT+Park%2C+Lahug%2C+Cebu+City&checkin=2026-11-23&checkout=2026-11-28&group_adults=1"
+    },
+    {
+     "label": "Map",
+     "url": "https://www.google.com/maps/search/?api=1&query=IT+Park+Lahug+Cebu+City"
+    }
+   ]
+  },
+  {
+   "id": "pr1880",
+   "kind": "flight",
+   "big": "CEB → MNL",
+   "date": "Sat Nov 28",
+   "name": "PR1880",
+   "line": "9:50 PM → 11:15 PM",
+   "action": "BACKUP",
+   "text": "PR1846 Sun Nov 29, 7:20 AM",
+   "links": []
+  },
+  {
+   "id": "rizal",
+   "kind": "court",
+   "big": "PRACTICE",
+   "date": "Nov 29",
+   "name": "Rizal Memorial",
+   "line": "Manila · public hard courts",
+   "action": "BOOK",
+   "text": "₱600/hr before 5 PM, ₱1,000 after",
+   "links": [
+    {
+     "label": "Book",
+     "url": "https://play.psc.gov.ph"
+    },
+    {
+     "label": "Map",
+     "url": "https://www.google.com/maps/search/?api=1&query=Rizal+Memorial+Tennis+Center+Manila"
+    }
+   ]
+  },
+  {
+   "id": "pca",
+   "kind": "event",
+   "big": "PCA OPEN",
+   "date": "Nov 30 – Dec 13",
+   "name": "PCA Open",
+   "line": "Paco, Manila · clay",
+   "action": "PLAY",
+   "text": "Qualifying Nov 30 – Dec 4\nMain draw Dec 5–13",
+   "links": [
+    {
+     "label": "Map",
+     "url": "https://www.google.com/maps/search/?api=1&query=Philippine+Columbian+Association+Plaza+Dilao+Paco+Manila"
+    },
+    {
+     "label": "Call",
+     "url": "tel:+63285638501"
+    }
+   ]
+  },
+  {
+   "id": "pr424",
+   "kind": "flight",
+   "big": "MNL → HND",
+   "date": "Mon Dec 14",
+   "name": "PR424",
+   "line": "7:10 PM → 12:15 AM",
+   "action": "BACKUP",
+   "text": "PR432, 3:25 PM → Narita",
+   "links": []
+  },
+  {
+   "id": "tokyo-stay",
+   "kind": "stay",
+   "big": "TOKYO",
+   "date": "Dec 14–19",
+   "name": "Capsule 510",
+   "line": "Shinjuku · ¥25,200 · 24-hour check-in",
+   "action": "BACKUP",
+   "text": "Imano Tokyo Hostel, one stop to Kitasando. Confirm late check-in.",
+   "links": [
+    {
+     "label": "Map",
+     "url": "https://www.google.com/maps/search/?api=1&query=Capsule+Hotel+Shinjuku+510"
+    },
+    {
+     "label": "Imano",
+     "url": "https://www.google.com/maps/search/?api=1&query=Imano+Tokyo+Hostel"
+    }
+   ]
+  },
+  {
+   "id": "diadora",
+   "kind": "event",
+   "big": "ARIAKE",
+   "date": "Tue Dec 15",
+   "name": "diadora cup",
+   "line": "Ariake Tennis no Mori · 8:30 AM",
+   "action": "ENTER",
+   "text": "Lv.5–9, prize money, ¥4,000\nCloses Dec 15, 7:00. Full fee if cancelled from Dec 8",
+   "links": [
+    {
+     "label": "Book",
+     "url": "https://www.tennisbear.net/event/1724298/info"
+    },
+    {
+     "label": "Map",
+     "url": "https://www.google.com/maps/search/?api=1&query=Ariake+Tennis+no+Mori"
+    }
+   ]
+  },
+  {
+   "id": "aa",
+   "kind": "flight",
+   "big": "HND → LAX",
+   "date": "Before Dec 20",
+   "name": "AA26 / AA170",
+   "line": "AA26 6:00 PM · AA170 1:05 PM",
+   "action": "LIST",
+   "text": "48 hours before. Backup AA176 via DFW",
+   "links": []
+  }
+ ]
+}
