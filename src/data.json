@@ -486,6 +486,26 @@
    ]
   },
   {
+   "id": "ph-tennis-with-coach-joe-fb-messenger",
+   "name": "Tennis with Coach Joe (FB Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Joe! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw you volunteered at the WTA 125 in Manila, that's sick. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance you're free for a hitting session or two in QC before Nov 30? Happy to pay your rate.",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-tennis-coach-jm-fb-messenger",
+   "name": "Tennis - Coach JM (FB Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach JM! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your sessions at One Court QC. I'm in Manila from this weekend for PCA qualies, Cebu after. Would you be up for a couple of hitting sessions before Nov 30? Happy to pay your rate.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-tennis-united-academy-fb-messenger",
    "name": "Tennis United Academy (FB Messenger)",
    "city": "Philippines",
@@ -1993,6 +2013,46 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-相原-一樹-tennis-bear-chat",
+   "name": "相原 一樹 (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。日本ランキング最高49位・全日本選手権出場のご経歴を拝見しました。12月14日〜19日に東京(千駄ヶ谷近く)に滞在します。その週に、レッスン枠としてシングルスの実戦練習かヒッティングをお願いできないでしょうか。\nHi Kazuki! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw your All-Japan and top-50 Japan ranking background. I'm in Tokyo Dec 14-19 near Sendagaya. Could I book you that week for a match-play singles session or a hit?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-シュンペイ-tennis-bear-chat",
+   "name": "シュンペイ (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。東新小岩でのシングルスゲーム会、まさに探していた形式です。12月14日〜19日に東京に滞在しますので、その週に開催があれば1枠参加させていただけないでしょうか。\nHi Shunpei! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Your singles game sessions at Higashi-Shinkoiwa are exactly what I'm looking for. I'm in Tokyo Dec 14-19. If you run one that week, could I grab a spot?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-yasuaki-tennis-bear-chat-or-x",
+   "name": "Yasuaki (Tennis Bear chat or X)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。インスピリッツでの優勝や小金井公園の練習会、拝見しました。12月14日〜19日に東京(千駄ヶ谷近く)に滞在します。その週に開催があれば1枠参加させていただけないでしょうか。バック攻めもお手伝いします。\nHi Yasuaki! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw your Inspirits titles and the Koganei sessions. I'm in Tokyo Dec 14-19 near Sendagaya. If you host one that week, could I grab a spot? Happy to hit to your backhand all day.",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-stk-tennis-bear-chat",
+   "name": "STK (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。上井草での1対1シングルス練習、まさに探していた形式です。12月14日〜19日に東京に滞在しますので、その週に枠があればお相手させていただけないでしょうか。\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Your 1-on-1 singles at Kamiigusa is exactly what I'm after. I'm in Tokyo Dec 14-19. If you have a slot that week, could I play you?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-nobu-tennis-bear-chat",
