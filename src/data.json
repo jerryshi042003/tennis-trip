@@ -536,6 +536,22 @@
    "new": true
   },
   {
+   "id": "ph-courtsidetennisclub.ph",
+   "name": "Courtside Tennis Club PH",
+   "city": "Manila",
+   "role": "Manila",
+   "action": "SEND",
+   "send": "Hi! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw your November training sessions and rallies. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Any rally or match nights I could join, or strong players in the club up for a hit?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/courtsidetennisclub.ph"
+    }
+   ],
+   "new": true,
+   "handle": "courtsidetennisclub.ph"
+  },
+  {
    "id": "ph-theqctennistriangle",
    "name": "The QC Tennis Triangle Club",
    "city": "Quezon City",
