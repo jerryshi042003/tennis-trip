@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-racketeer-mnl-coach-jc-messenger",
+   "name": "Racketeer MNL / Coach Jc (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Jc! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw your hitting-partner sessions at Makati Shangri-La, exactly what I need. I'm in Manila from this weekend for PCA qualies, Cebu after. Any open slots that week for some match-ready hitting?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-momo-messenger",
    "name": "Coach Momo (Messenger)",
    "city": "Philippines",
