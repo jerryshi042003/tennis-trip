@@ -1805,6 +1805,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-tennisrock-tennisoff-message",
+   "name": "tennisrock (TennisOff message)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に東京に滞在します。北区のシングルス(17時〜)に参加させていただきたいのですが、12月15日か18日は空いていますか?参加費はもちろんお支払いします。\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19. Could I join your 5 PM singles session at the Kita-ku sports center on Dec 15 or 18? Happy to pay the fee.",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-tan2-tennisoff-message",
+   "name": "tan2 (TennisOff message)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に東京に滞在します。12月19日(土)10時のシングルスレッスン＆ゲーム練習に参加させていただくことは可能でしょうか?ゲーム中心でたくさん打てると嬉しいです。\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19. Could I join your Sat Dec 19 10 AM singles lesson and match practice in Tachikawa? I'd love to keep it mostly match play.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-東京グリーンヒルズ-tennis-bear-chat",
    "name": "東京グリーンヒルズ (Tennis Bear chat)",
    "city": "Tokyo",
