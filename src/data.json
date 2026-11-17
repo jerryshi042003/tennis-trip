@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-asistio-tennis-masterclass-metro-manila-messenger",
+   "name": "Asistio Tennis Masterclass",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw your adult and competitive programs around Metro Manila. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance one of your coaches or stronger adult players would be up for a hit before qualies start Nov 30?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-mik-las-piñas-messenger",
    "name": "Coach Mik",
    "city": "Philippines",
@@ -1943,6 +1953,16 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-スタテニ-ig-dm",
+   "name": "スタテニ (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして。LAでテニスをしているJerry Shiと申します(UCLA出身、ITF Futures出場、UTR 9前後)。有明での杉山愛さん応援企画の投稿を拝見しました。12月14日〜19日に東京(千駄ヶ谷)に滞在するのですが、その期間にレッスンや撮影、練習会などでご一緒できる機会はありますでしょうか?\n\nHi! Jerry from LA (UCLA, ITF futures, UTR ~9). Saw the Ariake fan push for Ai Sugiyama's last tie. I'm in Tokyo Dec 14-19 near Sendagaya. Any chance to join a lesson, shoot or hit with your crew that week?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-立教大学体育会テニス部-ig-dm",
