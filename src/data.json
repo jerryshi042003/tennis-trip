@@ -1382,6 +1382,102 @@
    "fit": "contain"
   },
   {
+   "id": "jp-kpitokyo",
+   "name": "kpitokyo",
+   "city": "Shibuya",
+   "role": "tennis school, tournaments, shop",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズに出ています)。12月のKPI PARK大会情報を拝見しました。12月14日〜19日に東京(千駄ヶ谷あたり)に滞在するのですが、その週に一般男子が出られる大会や、上級者向けの練習会・ヒッティングはありますか?\n\nHi! Jerry here, LA-based UCLA alum playing ITF futures. Saw your December KPI PARK event list. I'm in Tokyo (near Sendagaya) Dec 14-19; any open men's event or high-level practice/hitting I could join that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/kpitokyo"
+    }
+   ],
+   "new": true,
+   "handle": "kpitokyo"
+  },
+  {
+   "id": "jp-yowa.1975",
+   "name": "yowa.1975",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズに出ています)。調布成人テニススクールの親睦大会の投稿を拝見しました。12月14日〜19日に東京に滞在します。ビジターが参加できる練習会やコートの利用方法があれば教えていただけますか?\n\nHi! Jerry, LA-based UCLA alum playing ITF futures. Saw the Chofu adult school's friendship tournament. I'm in Tokyo Dec 14-19; is there a way a visitor can join a practice or book a court?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/yowa.1975"
+    }
+   ],
+   "new": true,
+   "handle": "yowa.1975"
+  },
+  {
+   "id": "jp-mufgpark",
+   "name": "mufgpark",
+   "city": "Tokyo",
+   "role": "Nishitokyo",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズに出ています)。毎月の男子シングルス大会の投稿を拝見しました。12月14日〜19日に東京に滞在するのですが、その週にビジターがコートを借りたり、大会や練習会に参加したりできる枠はありますか?\n\nHi! Jerry here, LA-based UCLA alum playing ITF futures. Saw your monthly men's singles event. I'm in Tokyo Dec 14-19; any way a visitor can book a court or join an event or practice that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/mufgpark"
+    }
+   ],
+   "new": true,
+   "handle": "mufgpark"
+  },
+  {
+   "id": "jp-world_tennis_masters_tour",
+   "name": "world_tennis_masters_tour",
+   "city": "Tokyo",
+   "role": "Sports Sunrise / JOP",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズに出ています)。有明での世界選手権の投稿を拝見しました。12月14日〜19日に東京に滞在します。その期間に一般男子が出られるJOPなどのオープン大会があれば教えていただけますか?\n\nHi! Jerry, LA-based UCLA alum playing ITF futures. Saw the Ariake world championships. I'm in Tokyo Dec 14-19; any open (JOP) men's events I could enter that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/world_tennis_masters_tour"
+    }
+   ],
+   "new": true,
+   "handle": "world_tennis_masters_tour"
+  },
+  {
+   "id": "jp-neoindoortennis",
+   "name": "neoindoortennis",
+   "city": "Tokyo",
+   "role": "Adachi",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズに出ています)。11月15日のMIXダブルス100の投稿を見ました。12月14日〜19日に東京(千駄ヶ谷)に滞在します。その週にビジターで参加できるイベントや、上級者とのヒッティング・練習会があれば教えていただけますか?\n\nHi! Jerry here, LA-based UCLA alum playing ITF futures. Saw your Mix Doubles 100 on Nov 15. I'm in Tokyo Dec 14-19 near Sendagaya. Any visitor-friendly events or advanced hitting that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/neoindoortennis"
+    }
+   ],
+   "new": true,
+   "handle": "neoindoortennis"
+  },
+  {
+   "id": "jp-santopiatennispark",
+   "name": "santopiatennispark",
+   "city": "Nerima",
+   "role": "Nerima",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズに出ています)。年末の男子ダブルス大会の告知を拝見しました。12月14日〜19日に東京に滞在するのですが、その期間にビジターでコートを借りたり、上級者の練習会に参加したりできますか?\n\nHi! Jerry, LA-based UCLA alum playing ITF futures. Saw the year-end men's doubles post. I'm in Tokyo Dec 14-19; can a visitor book a court or join an advanced session that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/santopiatennispark"
+    }
+   ],
+   "new": true,
+   "handle": "santopiatennispark"
+  },
+  {
    "id": "jp-teamgods2019_tennis",
    "name": "Team G.O.D.S.",
    "city": "Nerima",
