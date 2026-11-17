@@ -1647,6 +1647,22 @@
    "fit": "contain"
   },
   {
+   "id": "jp-tennis_shall_we",
+   "name": "shall we tennis? (Instagram DM)",
+   "city": "Tokyo",
+   "role": "adult tennis circle, Kichijoji / Kinshicho",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。10月の井の頭公園での7面48人の練習会、すごい規模ですね!12月14日〜19日に東京(千駄ヶ谷近く)に滞在するのですが、その週に練習会があれば1回ビジターで参加させていただけますか?\n\nHi! I'm Jerry, an LA-based UCLA alum playing ITF futures (UTR ~9). Your October session at Inokashira Park with 48 players on 7 courts looked great! I'm in Tokyo Dec 14-19 near Sendagaya; if you have a practice that week, could I join once as a visitor?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/tennis_shall_we"
+    }
+   ],
+   "new": true,
+   "handle": "tennis_shall_we"
+  },
+  {
    "id": "jp-8knot_tennis",
    "name": "EightKnot (Instagram DM)",
    "city": "Koto",
