@@ -1575,6 +1575,22 @@
    "fit": "contain"
   },
   {
+   "id": "jp-ka___zuma",
+   "name": "Kazuma Furuya (Instagram DM)",
+   "city": "Tokyo",
+   "role": "pro player, coach",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。フォアハンドの動画、本当に速くてびっくりしました!12月14日〜19日に東京(千駄ヶ谷近く)に滞在するので、その週にヒッティングかプライベートレッスンを1回お願いできませんか?\n\nHi Kazuma! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). That forehand in your reels is no joke. I'm in Tokyo Dec 14-19, staying near Sendagaya; could we do one hit or a paid private session that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/ka___zuma"
+    }
+   ],
+   "new": true,
+   "handle": "ka___zuma"
+  },
+  {
    "id": "jp-yuki1998takamura",
    "name": "Yuki Takamura (Instagram DM)",
    "city": "Tokyo",
