@@ -1935,6 +1935,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-立教大学体育会テニス部-ig-dm",
+   "name": "立教大学体育会テニス部 (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして。LAでテニスをしているJerry Shiと申します(UCLA出身、ITF Futures出場、UTR 9前後)。関東リーグでの一部昇格を目指して頑張っている投稿を拝見しました。12月14日〜19日に東京(千駄ヶ谷)に滞在するのですが、その期間に練習に参加させていただくことは可能でしょうか?\n\nHi, Jerry from LA here (UCLA, ITF futures, UTR ~9). Saw the team's push for Div. 1 in the Kanto league. I'm in Tokyo Dec 14-19 near Sendagaya. Would it be possible to join one of your practices that week?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-日本大学テニス部-ig-dm-or-email-once-found",
+   "name": "日本大学テニス部 (IG DM",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして。LAでテニスをしているJerry Shiと申します(UCLA出身、ITF Futures出場、UTR 9前後)。王座3連覇を目指す日大テニス部の練習風景の投稿を拝見しました。12月14日〜19日に東京に滞在するので、もし可能であれば一度練習に参加させていただけないでしょうか?\n\nHi, Jerry from LA (UCLA, ITF futures, UTR ~9). Saw the practice videos and the goal of a third straight Ouza title. I'm in Tokyo Dec 14-19. Would it be possible to join a practice one day that week?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-小野田倫久さん-ig-dm",
    "name": "小野田倫久さん (IG DM)",
    "city": "Tokyo",
