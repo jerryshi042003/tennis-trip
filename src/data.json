@@ -562,6 +562,16 @@
    "new": true
   },
   {
+   "id": "ph-play-tennis-by-coach-earl-messenger-or-whatsapp",
+   "name": "Play Tennis by Coach Earl (Messenger or WhatsApp)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Earl! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw your weekend group sessions at Camella Tennis Club. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Any chance I could book a hitting session with you, or join a weekend session, before Nov 30?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-courtsidetennisclub.ph",
    "name": "Courtside Tennis Club PH",
    "city": "Manila",
