@@ -1995,6 +1995,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-nobu-tennis-bear-chat",
+   "name": "NOBU (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。トアルソンカップ準優勝やITFシニア本戦の戦績、拝見しました。12月14日〜19日に東京(千駄ヶ谷近く)に滞在します。その週に武蔵野での練習会があれば、ぜひ参加させていただけないでしょうか。シングルスでも喜んでお相手します。\nHi NOBU! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw your Toalson Cup final and ITF seniors run. I'm in Tokyo Dec 14-19 near Sendagaya. If you host a session in Musashino that week, could I join? Happy to play singles too.",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-ike551-tennis-bear-chat",
+   "name": "ike551 (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。多摩平のシングルス練習会(基礎練習のあと試合)、まさに探していた形式です。12月14日〜19日に東京に滞在しますので、その週に開催があれば1枠参加させていただけないでしょうか。\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Your Tamadaira singles sessions, drills then match play, are exactly what I'm looking for. I'm in Tokyo Dec 14-19. If you run one that week, could I grab a spot?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-都立大-硬式庭球部-ig-dm",
    "name": "都立大 硬式庭球部 (IG DM)",
    "city": "Tokyo",
