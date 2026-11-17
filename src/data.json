@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-tennis-blueprint-ph-messenger",
+   "name": "Tennis Blueprint PH (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi TBP! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw your coached game play at Tiendesitas and the new Three Courts in Cubao. I'm in Manila from this weekend for PCA qualies, Cebu after. Do any of your coaches or stronger players want to hit the week of Nov 23? Happy to pay court and coach rates.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-charlo-messenger",
    "name": "Coach Charlo (Messenger)",
    "city": "Philippines",
