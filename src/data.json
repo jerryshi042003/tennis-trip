@@ -1621,6 +1621,22 @@
    "fit": "contain"
   },
   {
+   "id": "jp-8knot_tennis",
+   "name": "EightKnot (Instagram DM)",
+   "city": "Koto",
+   "role": "adult tennis circle, Kiba",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。11月14日の木場での練習会、3面で24名とすごく盛り上がっていますね!12月14日〜19日に東京(千駄ヶ谷近く)に滞在するのですが、その週の練習会にビジターとして1回参加させていただくことは可能でしょうか?\n\nHi! I'm Jerry, an LA-based UCLA alum playing ITF futures (UTR ~9). Your Nov 14 practice in Kiba looked packed, 24 players on 3 courts! I'm in Tokyo Dec 14-19 near Sendagaya; could I join one of your practices that week as a visitor?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/8knot_tennis"
+    }
+   ],
+   "new": true,
+   "handle": "8knot_tennis"
+  },
+  {
    "id": "jp-phoenix.tennis",
    "name": "Phoenix Tennis (Instagram DM)",
    "city": "Tokyo",
