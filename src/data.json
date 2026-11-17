@@ -1508,6 +1508,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-takaji-hashiguchi-tennis-bear-chat",
+   "name": "Takaji Hashiguchi (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。アメリカとイギリスでコーチ留学されたと拝見しました。12月14日〜19日に東京(千駄ヶ谷近く)に滞在するので、その週にラリー中心のプライベートセッションを1回お願いできますか?\n\nHi Takaji! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw you trained as a coach in the US and UK. I'm in Tokyo Dec 14-19, staying near Sendagaya; could I book one rally-heavy private session with you that week?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-ecola-sports-tennis-bear-chat",
+   "name": "Ecola Sports (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。diadora cupをいつも拝見しています。12月14日〜19日に東京に滞在するので、12月15日の有明大会に海外在住者でもエントリーできるか教えていただけますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19 and saw the Diadora Cup at Ariake on Dec 15; can a visitor from the US enter, and is there anything I need besides a Tennis Bear account?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-hiroyuki-tennis-bear-chat",
    "name": "HIROYUKI (Tennis Bear chat)",
    "city": "Tokyo",
