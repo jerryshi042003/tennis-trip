@@ -1478,6 +1478,36 @@
    "fit": "contain"
   },
   {
+   "id": "jp-有明シングラー-tennis-bear-chat-to-ryo",
+   "name": "有明シングラー (Tennis Bear chat to Ryo)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。シングルス専門のサークルと拝見してご連絡しました。12月14日〜19日に東京に滞在するのですが、その間に有明でシングルスの練習試合をしている方がいれば参加させていただけますか?\n\nHi Ryo! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Love that this is a singles-only group. I'm in Tokyo Dec 14-19; could I jump into a singles session at Ariake that week?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-tc-tokyo-tennis-bear-chat",
+   "name": "TC TOKYO (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズ出場、UTR 9前後)。有明でシングルスもダブルスもされていると拝見しました。12月14日〜19日に東京にいるので、12月17日(木)か19日(土)の練習会に1回参加させていただけますか?\n\nHi! I'm Jerry from LA (UCLA alum, ITF futures, UTR ~9). Saw you play singles and doubles at Ariake. I'm in Tokyo Dec 14-19; could I drop in on your Thu Dec 17 or Sat Dec 19 session?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-都心メイン-tennis-bear-chat",
+   "name": "都心メイン (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズ出場、UTR 9前後)。都心エリア中心で活動されていると拝見しました。12月14日〜19日に千駄ヶ谷あたりに滞在するので、その週に上級者向けの練習会があれば参加させていただけますか?\n\nHi! I'm Jerry, LA-based (UCLA alum, ITF futures, UTR ~9). I'm staying near Sendagaya Dec 14-19. If anyone in the circle is running an advanced session that week, I'd love to join.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-takuya.komura1221",
    "name": "takuya.komura1221",
    "city": "Tokyo",
