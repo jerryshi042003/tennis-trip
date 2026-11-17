@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-coach-noah-llira-fb-messenger",
+   "name": "Coach Noah Llira (FB Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Noah! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw you're PTR and RSPA certified and coaching around Kawit and General Trias. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance you'd be up for a hit or know a good hitting group in Cavite?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-brazal-tennis-pasig-messenger",
    "name": "Brazal Tennis",
    "city": "Philippines",
@@ -1973,6 +1983,16 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-都立大-硬式庭球部-ig-dm",
+   "name": "都立大 硬式庭球部 (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、ロサンゼルス在住のJerryと申します（UCLA卒、ITFフューチャーズ出場、UTR約9）。11/13の好プレー集、拝見しました！12月14日〜19日に東京（千駄ヶ谷付近）に滞在します。もし可能でしたら、部の練習に一度参加させていただくか、どなたかと打たせていただけないでしょうか？\n\nHi! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Loved the Nov 13 highlight reel. I'm in Tokyo Dec 14-19 near Sendagaya. Any chance I could join a team practice or hit with one of your players?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-東京大学運動会庭球部-ig-dm",
