@@ -572,6 +572,22 @@
    "new": true
   },
   {
+   "id": "ph-attynnis",
+   "name": "Attynnis (IG DM)",
+   "city": "Manila",
+   "role": "Manila lawyer and tournament player/creator",
+   "action": "SEND",
+   "send": "Hi! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw your tournament Day 1 in Antipolo, lawyer by day and tennis girl by choice is a great combo haha. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Any open play or tournament groups you'd recommend? Would love to hit if you're free.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/attynnis"
+    }
+   ],
+   "new": true,
+   "handle": "attynnis"
+  },
+  {
    "id": "ph-gabriel_borres",
    "name": "Gab Borres (IG DM)",
    "city": "Manila",
