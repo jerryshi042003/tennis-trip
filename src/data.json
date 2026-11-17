@@ -1795,6 +1795,16 @@
    "fit": "contain"
   },
   {
+   "id": "jp-東京グリーンヒルズ-tennis-bear-chat",
+   "name": "東京グリーンヒルズ (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に東京に滞在します。Playersクラスのような競技レベルの練習に参加させていただくか、コーチの方と1時間ほどプライベートで打たせていただくことは可能でしょうか?料金はお支払いします。\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19. Could I join a competitive session like your Players class, or book an hour of private hitting with one of your coaches that week? Happy to pay.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-ビックシンク-浅草-tennis-bear-chat",
    "name": "ビックシンク 浅草 (Tennis Bear chat)",
    "city": "Tokyo",
