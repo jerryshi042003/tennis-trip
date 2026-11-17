@@ -536,6 +536,32 @@
    "new": true
   },
   {
+   "id": "ph-marikinatennis.com",
+   "name": "Marikina Tennis / Coach Leo (Messenger or letsplay)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Leo! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw your group at the La Milagrosa courts. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Any strong players or sessions in Marikina I could join for a hit before Nov 30?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/marikinatennis.com"
+    }
+   ],
+   "new": true,
+   "handle": "marikinatennis.com"
+  },
+  {
+   "id": "ph-john-c-tennis-messenger",
+   "name": "John C Tennis (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey John! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Fun court-level clips, saw you played the KAMON tournament too. I'm in Manila from this weekend for PCA qualies, Cebu after. Down to hit or film a set sometime before Nov 30?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-courtsidetennisclub.ph",
    "name": "Courtside Tennis Club PH",
    "city": "Manila",
