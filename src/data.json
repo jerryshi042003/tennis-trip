@@ -516,6 +516,26 @@
    "new": true
   },
   {
+   "id": "ph-ka-palo-melchor-abad-messenger",
+   "name": "Ka Palo / Melchor Abad (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Ka Palo! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Been watching your PCA Open order-of-play posts. I'm in Manila from this weekend for PCA qualies, Cebu after. Any strong players or open plays around Rizal Memorial you'd point me to for practice?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-palawan-pawnshop-national-tennis-championships-messenger",
+   "name": "Palawan Pawnshop National Tennis Championships (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Saw the Mayor Olivarez Open draws, looks like a strong event. I'm in Manila from this weekend for PCA qualies, Cebu after. Is there a men's open leg in December I could enter after PCA?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-arthur-dasian-cebu-city-messenger",
    "name": "Arthur Dasian",
    "city": "Philippines",
@@ -1518,10 +1538,10 @@
    "fit": "contain"
   },
   {
-   "id": "jp-maio-suzuki-instagram-dm",
-   "name": "Maio Suzuki",
-   "city": "Tokyo",
-   "role": "Coach",
+   "id": "jp-maaaio",
+   "name": "Maio Suzuki (Instagram DM)",
+   "city": "Saitama",
+   "role": "coach",
    "action": "SEND",
    "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。世界選手権に向けた練習の投稿を拝見しました!12月14日〜19日に東京(千駄ヶ谷近く)に滞在するので、その週に1回ヒッティングかプライベートレッスンをお願いできませんか?\n\nHi Maio! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw your build-up posts for the world championships. I'm in Tokyo Dec 14-19, staying near Sendagaya; would you be up for one hit or a private session that week?",
    "links": [
@@ -1534,10 +1554,10 @@
    "handle": "maaaio"
   },
   {
-   "id": "jp-sunrise-tennis-school-instagram-dm",
-   "name": "Sunrise Tennis School",
+   "id": "jp-sunrisetennisschool",
+   "name": "Sunrise Tennis School (Instagram DM)",
    "city": "Tokyo",
-   "role": "Tennis school",
+   "role": "New contact",
    "action": "SEND",
    "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。今週のゲーム週の投稿を拝見しました。12月14日〜19日に東京に滞在するので、その週に上級クラスへのビジター参加か、大森コーチとのプライベートレッスンは可能でしょうか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw this week's match-play week posts. I'm in Tokyo Dec 14-19; could I join an advanced class as a visitor, or book a private with Coach Omori that week?",
    "links": [
