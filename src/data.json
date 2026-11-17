@@ -1885,6 +1885,32 @@
    "fit": "contain"
   },
   {
+   "id": "jp-jitc-ig-dm",
+   "name": "JITC (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に千駄ヶ谷の近くに滞在します。綿貫選手や西郷姉妹ともつながりのある歴史あるスクールだと拝見しました。その週に上級クラスやコーチの方と打たせていただける機会はありますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19, staying near Sendagaya. Saw JITC's ties to Watanuki and the Saigo sisters. Is there an advanced session or a coach I could hit with that week?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-sami38_tennis",
+   "name": "Sayaka / (IG DM)",
+   "city": "Tokyo",
+   "role": "@sami38_tennis",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。有明のITFマスターズ世界選手権出場おめでとうございます!12月14日〜19日に東京(千駄ヶ谷付近)にいるので、その週にもしご都合が合えば一緒に練習していただけませんか?\n\nHi Sayaka! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Congrats on making the ITF Masters Worlds at Ariake! I'm in Tokyo Dec 14-19 near Sendagaya. Would you be up for a hit one day that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/sami38_tennis"
+    }
+   ],
+   "new": true,
+   "handle": "sami38_tennis"
+  },
+  {
    "id": "jp-チームどm-tennis-bear-chat",
    "name": "チームどM (Tennis Bear chat)",
    "city": "Tokyo",
