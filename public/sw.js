@@ -1,5 +1,5 @@
 // Offline cache for Tennis Trip. Built by src/build.py.
-const VERSION = '9647f28fe4';
+const VERSION = 'db0a6c4518';
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png", "img/agstylevideos.jpg", "img/ajlimofficial.jpg", "img/alexdantipapa.jpg", "img/ata_association.jpg", "img/cbu_tennis.jpg", "img/cebuelitetennisclub.jpg", "img/chrispapa01.jpg", "img/coach_czar.jpg", "img/coachlerafrancis.jpg", "img/dyancastillejo.jpg", "img/emon.vanlobensels.jpg", "img/everybodi.mnl.jpg", "img/iori_legend.jpg", "img/jeddyboy109.jpg", "img/johnnyarcilla1.jpg", "img/jrmtennis.jpg", "img/keisuke___ota.jpg", "img/kzm52tennis.jpg", "img/leone_tennis.jpg", "img/mahoutukaisally.jpg", "img/metromanilatennis.jpg", "img/mptenniscebu.jpg", "img/niegeldilemma.jpg", "img/ninotennis.jpg", "img/pj_tierro.jpg", "img/racketoncourt.jpg", "img/rubenninogonzales.jpg", "img/shotakonishi.tennis.jpg", "img/skip.tan.jpg", "img/sng1980.jpg", "img/star_tennis_academy_official.jpg", "img/stefferoni.jpg", "img/tennislab_cebuph.jpg", "img/tennisunitedacademy.jpg", "img/thesiargaotennisclub.jpg", "img/whismaaark.jpg"];
 const CACHE = 'tennis-trip-' + VERSION;
 const FONTS = 'tennis-trip-fonts';

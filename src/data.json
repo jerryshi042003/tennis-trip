@@ -486,6 +486,38 @@
    ]
   },
   {
+   "id": "ph-fernandezloucas",
+   "name": "Loucas Fernandez",
+   "city": "Philippines",
+   "role": "UP Maroons",
+   "action": "SEND",
+   "send": "Hey Loucas! I'm Jerry, UCLA alum from LA playing futures. Watched your Gimaca Cup final vs JB, 3 hours of tiebreaks is crazy. I'm in Manila Nov 29 to Dec 13 for PCA qualies on clay. Down to hit a couple of times that week? Happy to jump in a Fernandez Brothers session too.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/fernandezloucas"
+    }
+   ],
+   "new": true,
+   "handle": "fernandezloucas"
+  },
+  {
+   "id": "ph-jbxaguilar",
+   "name": "JB Aguilar",
+   "city": "Cebu",
+   "role": "John Benedict",
+   "action": "SEND",
+   "send": "Hey JB! I'm Jerry from LA, played at UCLA and play futures. Congrats on the Gimaca Cup, saw the final on Racket On Court. I'm in Manila Nov 29 to Dec 13 for PCA qualies. If you're playing it too, down to practice together on clay before it starts?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/jbxaguilar"
+    }
+   ],
+   "new": true,
+   "handle": "jbxaguilar"
+  },
+  {
    "id": "ph-tennisnomad",
    "name": "Tennis Nomad",
    "city": "Cebu",

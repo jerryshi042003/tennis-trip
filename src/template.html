@@ -206,7 +206,7 @@ main .wrap { padding-block: 20px calc(64px + env(safe-area-inset-bottom)); }
       return `<div class="media word"><span>${esc(item.big)}</span>${item.date ? `<span class="date">${esc(item.date)}</span>` : ''}</div>`;
     }
     if (!item.img) {
-      return `<div class="media word"><span>${esc(item.city)}</span></div>`;
+      return `<div class="media word"><span>${esc(item.city)}</span>${item.handle ? `<span class="handle">@${esc(item.handle)}</span>` : ''}</div>`;
     }
     const src = 'img/' + encodeURIComponent(item.img);
     const cap = item.handle ? `<span class="handle">@${esc(item.handle)}</span>` : '';
