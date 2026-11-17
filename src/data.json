@@ -1825,6 +1825,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-ニッシー-tennis-bear-chat",
+   "name": "ニッシー (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に東京に滞在します。平和の森の上級ダブルス練習会、とても楽しそうでした。その週に開催があれば参加させていただけますか?空きがなければシングルスで打っていただける方がいれば嬉しいです。\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19. Your advanced doubles sessions at Heiwa-no-Mori look great. Any chance I could join one that week?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-ae3opjv-tennis-bear-chat",
+   "name": "ae3opjv (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。12月14日〜19日に東京に滞在します。錦糸公園の実戦シリーズ、少人数でたくさん打てる内容が魅力的でした。その週の朝か夜の回に参加させていただけますか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). I'm in Tokyo Dec 14-19. Your small-group practice series at Kinshi Park looks like a great workout. Could I join a morning or evening session that week?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-tennisrock-tennisoff-message",
    "name": "tennisrock (TennisOff message)",
    "city": "Tokyo",
