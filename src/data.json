@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-mg-tennis-facebook-novaliches-qc",
+   "name": "MG Tennis (Facebook",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi coach! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Saw your Sunday training at Two Courts North EDSA. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Any strong players in your group who'd want a hit, or could I join a session one day?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-stanleyseludo",
    "name": "Stanley Seludo",
    "city": "Manila",
