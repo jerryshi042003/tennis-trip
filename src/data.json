@@ -486,6 +486,38 @@
    ]
   },
   {
+   "id": "ph-stanleyseludo",
+   "name": "Stanley Seludo",
+   "city": "Manila",
+   "role": "Manila coach",
+   "action": "SEND",
+   "send": "Hey Stanley! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Saw your Valle Verde group session reel, love the back-to-basics stuff. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Down to hit one day once you're back from Japan?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/stanleyseludo"
+    }
+   ],
+   "new": true,
+   "handle": "stanleyseludo"
+  },
+  {
+   "id": "ph-unifiedtennisph",
+   "name": "Unified Tennis Philippines",
+   "city": "Cebu",
+   "role": "UTP, UTR events",
+   "action": "SEND",
+   "send": "Hi UTP! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Been following the Elite Eight playoffs. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Any UTR level-based event or strong UTR players I could hit with while I'm there?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/unifiedtennisph"
+    }
+   ],
+   "new": true,
+   "handle": "unifiedtennisph"
+  },
+  {
    "id": "ph-john.c.tennis",
    "name": "John C Tennis",
    "city": "Manila",
@@ -2325,7 +2357,7 @@
    "name": "Captain",
    "line": "Standby listing · send now",
    "action": "SEND",
-   "send": "Hi! Can you confirm my ZED standby listing on PR123, Friday Nov 20, LAX 3:10 PM to Manila (arrives Sat Nov 21 10:45 PM)? It looks much emptier than PR103, which is down to its last fare class. Backup: PR103 Sat Nov 21 10:05 PM. LAX to Manila only for now. Thank you!",
+   "send": "Hi! Can you change my ZED standby listing to:\n1) PR123 Fri Nov 20 LAX 3:10 PM → Manila (arr Sat 10:45 PM)\n2) PR1867 Sun Nov 22 Manila 1:55 PM → Cebu\n3) PR1880 Sat Nov 28 Cebu 9:50 PM → Manila\n\nPR123 looks much emptier than PR103, which is down to its last fare class. Backups: PR103 Sat Nov 21 for LAX, PR1861 Sun Nov 22 7:40 PM for Cebu.\nCould you confirm once the listings are in? Thank you!",
    "links": []
   },
   {
@@ -2341,6 +2373,68 @@
     {
      "label": "eTravel",
      "url": "https://etravel.gov.ph"
+    }
+   ]
+  },
+  {
+   "id": "pr1867",
+   "kind": "flight",
+   "big": "MNL → CEB",
+   "date": "Sun Nov 22",
+   "name": "PR1867",
+   "line": "1:55 PM → 3:20 PM · NAIA Terminal 2",
+   "action": "BACKUP",
+   "text": "PR1861, 7:40 PM",
+   "links": []
+  },
+  {
+   "id": "cebu-stay",
+   "kind": "stay",
+   "big": "CEBU",
+   "date": "Nov 23–28",
+   "name": "Studio, IT Park",
+   "line": "Lahug · $90",
+   "action": "STAY",
+   "text": "Studio near IT Park, Lahug",
+   "links": [
+    {
+     "label": "Book",
+     "url": "https://www.booking.com/searchresults.html?ss=IT+Park%2C+Lahug%2C+Cebu+City&checkin=2026-11-23&checkout=2026-11-28&group_adults=1"
+    },
+    {
+     "label": "Map",
+     "url": "https://www.google.com/maps/search/?api=1&query=IT+Park+Lahug+Cebu+City"
+    }
+   ]
+  },
+  {
+   "id": "pr1880",
+   "kind": "flight",
+   "big": "CEB → MNL",
+   "date": "Sat Nov 28",
+   "name": "PR1880",
+   "line": "9:50 PM → 11:15 PM",
+   "action": "BACKUP",
+   "text": "PR1846 Sun Nov 29, 7:20 AM",
+   "links": []
+  },
+  {
+   "id": "rizal",
+   "kind": "court",
+   "big": "PRACTICE",
+   "date": "Nov 29",
+   "name": "Rizal Memorial",
+   "line": "Manila · public hard courts",
+   "action": "BOOK",
+   "text": "₱600/hr before 5 PM, ₱1,000 after",
+   "links": [
+    {
+     "label": "Book",
+     "url": "https://play.psc.gov.ph"
+    },
+    {
+     "label": "Map",
+     "url": "https://www.google.com/maps/search/?api=1&query=Rizal+Memorial+Tennis+Center+Manila"
     }
    ]
   },
