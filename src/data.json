@@ -1955,6 +1955,16 @@
    "fit": "contain"
   },
   {
+   "id": "jp-法政大学体育会テニス部-ig-dm",
+   "name": "法政大学体育会テニス部 (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして。LAでテニスをしているJerry Shiと申します(UCLA出身、ITF Futures出場、UTR 9前後)。男子部の王座優勝という目標を拝見しました。12月14日〜19日に東京(千駄ヶ谷)に滞在するのですが、その期間に練習に参加させていただくことは可能でしょうか?\n\nHi! Jerry from LA (UCLA, ITF futures, UTR ~9). Saw the men's team is going for the Ouza title. I'm in Tokyo Dec 14-19 near Sendagaya. Any chance I could join a practice that week?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-スタテニ-ig-dm",
    "name": "スタテニ (IG DM)",
    "city": "Tokyo",
