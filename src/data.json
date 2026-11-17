@@ -486,6 +486,26 @@
    ]
   },
   {
+   "id": "ph-okiks-on-court-messenger",
+   "name": "Okiks On Court (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey! I'm Jerry, LA-based, UCLA alum playing ITF futures (UTR ~9). I'm in Manila from this weekend for PCA qualies, Cebu after. Saw your Tondo training post. Any chance I could book a court or a hit with one of your coaches at Royale for a session or two before Nov 30? Happy to pay.",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-rally-room-messenger",
+   "name": "Rally Room (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw your post about hitting sessions at Dapitan and CCP. I'm in Manila from this weekend for PCA qualies, Cebu after. Could I book a couple of hitting sessions with you the week of Nov 23? Happy to pay your rate.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-mg-tennis-facebook-novaliches-qc",
    "name": "MG Tennis (Facebook",
    "city": "Philippines",
