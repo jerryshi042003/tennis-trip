@@ -572,6 +572,16 @@
    "new": true
   },
   {
+   "id": "ph-coach-bjun-tennis-padel-fb-messenger",
+   "name": "Coach Bjun Tennis & Padel (FB Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Bjun! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw you played the Cebuana Lhuillier Masters Challenge and ran your own tournament at Alta Vista, awesome. I'm in Manila from this weekend for PCA Open qualies, Cebu after. When I'm in Cebu, could I book a hit with you or join one of your sessions in Talisay?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-top-seed-tennis-camp-fb-messenger",
    "name": "Top Seed Tennis Camp (FB Messenger)",
    "city": "Philippines",
