@@ -553,6 +553,36 @@
    "img": "theqctennistriangle.jpg"
   },
   {
+   "id": "ph-game-point-tennis-parañaque-messenger",
+   "name": "Game Point Tennis",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Your indoor court with the ball machine at Parqal looks perfect. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Can I book the court and machine for a few sessions, and do you know strong players who'd want a hit?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-qc-tennis-group-post-after-joining",
+   "name": "QC Tennis (group post",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi all! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Seeing lots of QC players looking for games here. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Looking for strong hitting partners around QC for singles or drills, happy to cover court. Message me!",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-parañaque-tennis-aficionado-group-post-after-joining",
+   "name": "Parañaque Tennis Aficionado (group post",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Loved the match reels in here. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Anyone in Parañaque/BF up for a hit or practice sets? Happy to split the court.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-qc-tennis-community-group-post-after-joining",
    "name": "QC Tennis Community (group post",
    "city": "Philippines",
