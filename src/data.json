@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-tennis-united-academy-fb-messenger",
+   "name": "Tennis United Academy (FB Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw you just expanded the Manila coaching team. I'm in Manila from this weekend for PCA qualies, Cebu after. Would any of your coaches be up for a few hitting sessions on clay before Nov 30? Happy to pay the rate.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-noah-llira-fb-messenger",
    "name": "Coach Noah Llira (FB Messenger)",
    "city": "Philippines",
