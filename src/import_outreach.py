@@ -72,8 +72,11 @@ ROLES = {
     "utr_protennistour_japan": ("Kanto", "Prize-money tour"),
     "ryotatanuma_tennis": ("Japan", "Pro, private lessons"),
     "raimu__.4": ("Yokohama", "Traveling coach"),
+    "chuouniv_tennis": ("Tokyo", "Chuo University varsity team"),
+    "agu_tennis": ("Shibuya", "Aoyama Gakuin varsity team"),
+    "nodai_tennis_man": ("Setagaya", "Tokyo Nodai varsity team"),
 }
-NAMES = {"tennis.boys.tokyo": "Tennis Boys Tokyo", "t_socialt": "t_social", "kamon": "KAMON! Tennis", "vey": "Vey"}
+NAMES = {"tennis.boys.tokyo": "Tennis Boys Tokyo", "t_socialt": "t_social", "kamon": "KAMON! Tennis", "vey": "Vey", "chuouniv_tennis": "Chuo University tennis team", "agu_tennis": "Aoyama Gakuin tennis team", "nodai_tennis_man": "Tokyo Nodai men's tennis"}
 CITY_WORDS = ["Manila", "Cebu", "Pasig", "Makati", "Parañaque", "Antipolo", "Quezon City", "Siargao",
               "Setagaya", "Shibuya", "Koto", "Kameido", "Nerima", "Komae", "Yokohama", "Saitama", "Tokyo"]
 FB = re.compile(r"https://www\.facebook\.com/[\w.]+/?")

@@ -486,6 +486,22 @@
    ]
   },
   {
+   "id": "ph-thebaselinesocietyph",
+   "name": "The Baseline Society",
+   "city": "Pasig",
+   "role": "Pasig/Taytay",
+   "action": "SEND",
+   "send": "Hey! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Love that you turned a warehouse into a 24/7 court. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies. Could I book a few late-night hits, and do you know any strong players at your open plays looking for a hit?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/thebaselinesocietyph"
+    }
+   ],
+   "new": true,
+   "handle": "thebaselinesocietyph"
+  },
+  {
    "id": "ph-fernandezloucas",
    "name": "Loucas Fernandez",
    "city": "Philippines",
@@ -1162,6 +1178,57 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-chuouniv_tennis",
+   "name": "Chuo University tennis team",
+   "city": "Tokyo",
+   "role": "Chuo University varsity team",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。王座を目指すチームの投稿をいつも楽しく見ています。12月14日〜19日に東京(千駄ヶ谷)に滞在するのですが、その間に練習に1回参加させていただくことは可能でしょうか?ご都合の良い日があれば教えてください。\n\nHi! I'm Jerry, a UCLA alum playing ITF Futures (UTR ~9) from LA. I'm in Tokyo Dec 14-19. Could I join one of your practices that week? Happy to fit whatever day works.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/chuouniv_tennis"
+    }
+   ],
+   "new": true,
+   "handle": "chuouniv_tennis",
+   "img": "chuouniv_tennis.jpg"
+  },
+  {
+   "id": "jp-agu_tennis",
+   "name": "Aoyama Gakuin tennis team",
+   "city": "Shibuya",
+   "role": "Aoyama Gakuin varsity team",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。プロフィールの「練習参加お待ちしております」を見てご連絡しました。12月14日〜19日に千駄ヶ谷あたりに滞在するので、その間に練習に参加させていただけたら嬉しいです。可能な日と場所を教えていただけますか?\n\nHi! Jerry here, UCLA alum and ITF Futures player (UTR ~9) from LA. Saw your bio welcomes practice visitors. I'm staying near Sendagaya Dec 14-19. Could I join a practice? Which day and courts would work?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/agu_tennis"
+    }
+   ],
+   "new": true,
+   "handle": "agu_tennis",
+   "img": "agu_tennis.jpg"
+  },
+  {
+   "id": "jp-nodai_tennis_man",
+   "name": "Tokyo Nodai men's tennis",
+   "city": "Setagaya",
+   "role": "Tokyo Nodai varsity team",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。世田谷キャンパスで活動されていると拝見しました。12月14日〜19日に東京に滞在するので、その間に練習参加か練習試合をさせていただくことはできますか?ご検討よろしくお願いします。\n\nHi! I'm Jerry, UCLA alum playing ITF Futures (UTR ~9). I'm in Tokyo Dec 14-19. Could I join a practice or play a few practice sets with the team at Setagaya that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/nodai_tennis_man"
+    }
+   ],
+   "new": true,
+   "handle": "nodai_tennis_man",
+   "img": "nodai_tennis_man.jpg"
   },
   {
    "id": "jp-takuo_3",
