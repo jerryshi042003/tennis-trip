@@ -1430,6 +1430,22 @@
    "fit": "contain"
   },
   {
+   "id": "jp-mltc.tennis",
+   "name": "mltc.tennis",
+   "city": "Tokyo",
+   "role": "町田ローンテニスクラブ&スクール",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。クレーコートが5面あるクラブと拝見しました。12月14日〜19日に東京に滞在する予定で、マニラのクレー大会の直後なので、その間にクレーで上級者の練習やヒッティングに参加させていただける枠はありますか?ビジター料金があればお支払いします。\n\nHi! I'm Jerry, LA-based, UCLA alum playing ITF futures (UTR ~9). Saw you have 5 clay courts. I'm in Tokyo Dec 14-19 right after a clay event in Manila. Any chance I could join a high-level practice or hitting session that week? Happy to pay a visitor fee.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/mltc.tennis"
+    }
+   ],
+   "new": true,
+   "handle": "mltc.tennis"
+  },
+  {
    "id": "jp-sakuradaclubtokyotenniscollege",
    "name": "sakuradaclubtokyotenniscollege",
    "city": "Tokyo",
