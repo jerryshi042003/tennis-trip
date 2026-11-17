@@ -486,6 +486,137 @@
    ]
   },
   {
+   "id": "ph-tennisupd",
+   "name": "Tennis UP",
+   "city": "Quezon City",
+   "role": "UP Diliman, Quezon City",
+   "action": "SEND",
+   "send": "Hey Tennis UP! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Saw the President's Cup, looked intense haha. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies. Any chance I could join one of your sessions in Diliman and hit with some of your stronger players?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/tennisupd"
+    }
+   ],
+   "new": true,
+   "handle": "tennisupd",
+   "img": "tennisupd.jpg"
+  },
+  {
+   "id": "ph-pinoyprosports",
+   "name": "Pinoypro Sports / Coach Ron Santander",
+   "city": "Manila",
+   "role": "Manila",
+   "action": "SEND",
+   "send": "Hi Coach Ron! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Saw you've been coaching since your Rizal Memorial days. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies on clay. Could I book a hitting session with you or one of your advanced players to get ready?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/pinoyprosports"
+    }
+   ],
+   "new": true,
+   "handle": "pinoyprosports",
+   "img": "pinoyprosports.jpg"
+  },
+  {
+   "id": "ph-jasperamorin",
+   "name": "Jasper Amorin",
+   "city": "Philippines",
+   "role": "Filipino creator",
+   "action": "SEND",
+   "send": "Hey Jasper! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Saw your late night tennis with Grant, looked so fun. I'm in Manila Nov 29 to Dec 13 for the PCA Open. Down to hit one night while I'm there? Happy to make some content too.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/jasperamorin"
+    }
+   ],
+   "new": true,
+   "handle": "jasperamorin",
+   "img": "jasperamorin.jpg"
+  },
+  {
+   "id": "ph-yawntennis",
+   "name": "Yawn Tennis Club",
+   "city": "Manila",
+   "role": "Metro Manila rec club",
+   "action": "SEND",
+   "send": "Hey Yawn fam! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Love the dual meet series, looks like a fun crew. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies. Your bio says DM to play, so: any open sessions I could join while I'm in town?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/yawntennis"
+    }
+   ],
+   "new": true,
+   "handle": "yawntennis"
+  },
+  {
+   "id": "ph-tenneastacademy",
+   "name": "TennEast Academy",
+   "city": "Manila",
+   "role": "Antipolo, Rizal",
+   "action": "SEND",
+   "send": "Hi TennEast! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Saw The Final Set tournament and your open plays. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies. Could I join an open play or hit with one of your coaches or advanced players one day?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/tenneastacademy"
+    }
+   ],
+   "new": true,
+   "handle": "tenneastacademy"
+  },
+  {
+   "id": "ph-avari.tennis",
+   "name": "Avari Tennis Studio",
+   "city": "Philippines",
+   "role": "Ortigas, Mandaluyong",
+   "action": "SEND",
+   "send": "Hi Avari! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). The tennis simulator looks sick, first one in the country right? I'm in Manila Nov 29 to Dec 13 for PCA Open. Would love to come try it, and could you point me to Coach Roland or anyone who hits there?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/avari.tennis"
+    }
+   ],
+   "new": true,
+   "handle": "avari.tennis"
+  },
+  {
+   "id": "ph-johnreynolds___",
+   "name": "John Reynolds",
+   "city": "Philippines",
+   "role": "BGC Tennis Club organizer",
+   "action": "SEND",
+   "send": "Hey John! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Saw the BGC Tennis Club tournament you helped run, looks like a fun crew. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies. Any chance I could join a club session or hit with some of your stronger guys while I'm there?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/johnreynolds___"
+    }
+   ],
+   "new": true,
+   "handle": "johnreynolds___"
+  },
+  {
+   "id": "ph-tarapalo.ph",
+   "name": "Palo Tennis Academy",
+   "city": "Philippines",
+   "role": "Ortigas/Mandaluyong",
+   "action": "SEND",
+   "send": "Hi Palo team! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Your doubles tournament highlights looked intense. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies. Could I book a court or hit with one of your coaches or Class A players in Ortigas one evening?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/tarapalo.ph"
+    }
+   ],
+   "new": true,
+   "handle": "tarapalo.ph"
+  },
+  {
    "id": "ph-thebaselinesocietyph",
    "name": "The Baseline Society",
    "city": "Pasig",
@@ -1178,6 +1309,102 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-team_zenpukuji",
+   "name": "善福寺公園テニスクラブ",
+   "city": "Tokyo",
+   "role": "club, Suginami",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。12月の「ヒッティングイベント」の投稿を見て連絡しました。12月14日〜19日に東京に滞在するので、その間にコーチとのヒッティング枠を予約できますか?ビジターでも参加可能か教えてください。\n\nHey! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your December hitting event with the coaches. I'm in Tokyo Dec 14-19; can a visitor book a hitting slot that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/team_zenpukuji"
+    }
+   ],
+   "new": true,
+   "handle": "team_zenpukuji"
+  },
+  {
+   "id": "jp-teniste2025",
+   "name": "TENISTE",
+   "city": "Kameido",
+   "role": "20s working-adult circle",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。日比谷公園や亀戸での練習会、楽しそうですね。12月14日〜19日に東京(千駄ヶ谷)に滞在するので、その週に開催があれば単発で参加させてもらえますか?\n\nHey! Jerry, LA-based player (UCLA alum, ITF futures). Your Hibiya Park sessions look fun. I'm in Tokyo Dec 14-19; if you have a session that week, could I drop in once?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/teniste2025"
+    }
+   ],
+   "new": true,
+   "handle": "teniste2025"
+  },
+  {
+   "id": "jp-ots___official",
+   "name": "OTS",
+   "city": "Tokyo",
+   "role": "20s working-adult circle",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。猿江恩賜公園での練習会を見ました。12月14日〜19日に東京に滞在するので、その週の開催日に単発で参加できますか?\n\nHey! Jerry here, LA-based (UCLA alum, ITF futures). Saw your sessions at Sarue Park. I'm in Tokyo Dec 14-19; could I join one session that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/ots___official"
+    }
+   ],
+   "new": true,
+   "handle": "ots___official"
+  },
+  {
+   "id": "jp-joy_tennis_tokyo",
+   "name": "Joy Tennis Tokyo",
+   "city": "Tokyo",
+   "role": "international hitting group",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。インドネシアからの旅行者が参加した投稿を見て連絡しました。12月14日〜19日に東京(千駄ヶ谷)に滞在するので、その間のセッションに参加させてもらえますか?\n\nHey! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw the Indonesian travellers joining you last week. I'm in Tokyo Dec 14-19 near Sendagaya; could I join one of your sessions that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/joy_tennis_tokyo"
+    }
+   ],
+   "new": true,
+   "handle": "joy_tennis_tokyo"
+  },
+  {
+   "id": "jp-hiroyasueh0727",
+   "name": "江原弘泰プロ",
+   "city": "Tokyo",
+   "role": "pro, coach",
+   "action": "SEND",
+   "send": "江原プロ、はじめまして。LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。マスターズ世界選手権でのカナダ戦ダブルス、拝見しました。12月14日〜19日に東京に滞在するので、その間にプライベートレッスンかヒッティングをお願いできないでしょうか?料金と空いている日を教えてください。\n\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Caught your doubles win vs Canada at the Masters worlds. I'm in Tokyo Dec 14-19; any chance of a private lesson or hit that week? Happy to pay your rate.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/hiroyasueh0727"
+    }
+   ],
+   "new": true,
+   "handle": "hiroyasueh0727"
+  },
+  {
+   "id": "jp-shinn_hiramatsu",
+   "name": "平松晋之祐さん",
+   "city": "Tokyo",
+   "role": "coach, hitting partner",
+   "action": "SEND",
+   "send": "平松さん、はじめまして。LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。BJKCファイナルズでヒッターをされていたと知り、ぜひ一度打ってみたいと思いました。12月14日〜19日に東京(千駄ヶ谷)に滞在します。その週にヒッティングかレッスンをお願いできますか?\n\nHey Shinn! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw you hit for Team Japan at the BJK Cup Finals. I'm in Tokyo Dec 14-19 near Sendagaya; could I book a hit or lesson with you that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/shinn_hiramatsu"
+    }
+   ],
+   "new": true,
+   "handle": "shinn_hiramatsu"
   },
   {
    "id": "jp-chuouniv_tennis",
