@@ -486,6 +486,48 @@
    ]
   },
   {
+   "id": "ph-sweep.ipop",
+   "name": "SWEEP",
+   "city": "Manila",
+   "role": "Metro Manila tennis brand",
+   "action": "SEND",
+   "send": "Hey SWEEP! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). The Halloween open play costumes were elite haha. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies on clay. Any open play or Sweep Open event I could jump into while I'm there?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/sweep.ipop"
+    }
+   ],
+   "new": true,
+   "handle": "sweep.ipop"
+  },
+  {
+   "id": "ph-racquetfriends",
+   "name": "Racquet and Friends",
+   "city": "Manila",
+   "role": "Las Piñas",
+   "action": "SEND",
+   "send": "Hi R&F! I'm Jerry, UCLA alum from LA playing ITF futures (UTR ~9). Love the open plays, and happy 1st anniversary. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies on clay. Can I join one of your open plays that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/racquetfriends"
+    }
+   ],
+   "new": true,
+   "handle": "racquetfriends"
+  },
+  {
+   "id": "ph-ptc-aces-via-reclub",
+   "name": "PTC ACES (via Reclub)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi PTC ACES! I'm Jerry from LA, played at UCLA and now ITF futures (UTR ~9). Saw your sessions with Racquet and Friends. I'm in Manila Nov 29 to Dec 13 for PCA Open qualies. Any chance I can join a session in Parañaque?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-tennisupd",
    "name": "Tennis UP",
    "city": "Quezon City",
@@ -1338,6 +1380,102 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-teamgods2019_tennis",
+   "name": "Team G.O.D.S.",
+   "city": "Nerima",
+   "role": "working-adult team, Nerima",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。練馬区の団体戦の投稿を見ました。12月14日〜19日に東京に滞在するので、その週に練習があればビジターとして1回参加させてもらえますか?\n\nHey! Jerry, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your Nerima team event posts. I'm in Tokyo Dec 14-19; if you're practicing that week, could I join once as a visitor?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/teamgods2019_tennis"
+    }
+   ],
+   "new": true,
+   "handle": "teamgods2019_tennis"
+  },
+  {
+   "id": "jp-ishiimakototennis",
+   "name": "石井真テニスアカデミー",
+   "city": "Tokyo",
+   "role": "Nakano school",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。中野校の投稿を見て連絡しました。12月14日〜19日に東京に滞在するので、その間に上級者向けのクラスかコーチとのヒッティングに参加できますか?\n\nHey! Jerry here, LA-based player (UCLA alum, ITF futures). Saw your Nakano school posts. I'm in Tokyo Dec 14-19; any advanced class or coach hit I could join that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/ishiimakototennis"
+    }
+   ],
+   "new": true,
+   "handle": "ishiimakototennis"
+  },
+  {
+   "id": "jp-ryu16_nakano",
+   "name": "中野龍一郎",
+   "city": "Yokohama",
+   "role": "pro player",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futuresを回っています)。オーストラリアのITF遠征の投稿見ました、ゴールドコーストのケガお大事に。12月14日〜19日に東京にいるので、日本に戻っていたら一緒に練習しませんか?\n\nHey man, Jerry here, LA-based, playing futures too (UCLA alum). Saw the Australia swing, hope the injury from Gold Coast heals up. I'm in Tokyo Dec 14-19; if you're back home, down to hit one day?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/ryu16_nakano"
+    }
+   ],
+   "new": true,
+   "handle": "ryu16_nakano"
+  },
+  {
+   "id": "jp-kyodo_indoor_tennisschool",
+   "name": "経堂インドアテニススクール",
+   "city": "Setagaya",
+   "role": "Setagaya",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。ビジター向けの体験会の投稿を見ました。12月14日〜19日に千駄ヶ谷に滞在するので、その週にビジターでコーチとのヒッティングかレッスンを予約できますか?\n\nHey! Jerry, LA-based player (UCLA alum, ITF futures). Saw your visitor trial posts. I'm near Sendagaya Dec 14-19; can a visitor book a coach hit or lesson that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/kyodo_indoor_tennisschool"
+    }
+   ],
+   "new": true,
+   "handle": "kyodo_indoor_tennisschool"
+  },
+  {
+   "id": "jp-priteninet",
+   "name": "プラテニ",
+   "city": "Tokyo",
+   "role": "private-lesson coach network",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。浜田さんの毎日のレッスン投稿を見ました。12月14日〜19日に東京(千駄ヶ谷)に滞在するので、上級者向けにヒッティング中心のプライベートレッスンをお願いできますか?\n\nHey! Jerry, LA-based player (UCLA alum, ITF futures). Saw Hamada-san's daily lesson posts. I'm in Tokyo Dec 14-19 near Sendagaya; could I book a hitting-focused private with an advanced coach?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/priteninet"
+    }
+   ],
+   "new": true,
+   "handle": "priteninet"
+  },
+  {
+   "id": "jp-abta_ajta",
+   "name": "Ariake Bayside Tennis Academy",
+   "city": "Tokyo",
+   "role": "ABTA",
+   "action": "SEND",
+   "send": "はじめまして!LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures、UTR 9前後)。英語レッスンの投稿を見ました。12月14日〜19日に東京に滞在するので、有明でコーチとのヒッティングを1回お願いできますか?\n\nHey! Jerry, LA-based player (UCLA alum, ITF futures). Saw your English lessons in Ariake. I'm in Tokyo Dec 14-19; could I book a hitting session with one of your coaches that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/abta_ajta"
+    }
+   ],
+   "new": true,
+   "handle": "abta_ajta"
   },
   {
    "id": "jp-team_zenpukuji",
