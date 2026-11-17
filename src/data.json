@@ -1519,23 +1519,35 @@
   },
   {
    "id": "jp-maio-suzuki-instagram-dm",
-   "name": "Maio Suzuki (Instagram DM)",
+   "name": "Maio Suzuki",
    "city": "Tokyo",
-   "role": "New contact",
+   "role": "Coach",
    "action": "SEND",
    "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。世界選手権に向けた練習の投稿を拝見しました!12月14日〜19日に東京(千駄ヶ谷近く)に滞在するので、その週に1回ヒッティングかプライベートレッスンをお願いできませんか?\n\nHi Maio! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw your build-up posts for the world championships. I'm in Tokyo Dec 14-19, staying near Sendagaya; would you be up for one hit or a private session that week?",
-   "links": [],
-   "new": true
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/maaaio"
+    }
+   ],
+   "new": true,
+   "handle": "maaaio"
   },
   {
    "id": "jp-sunrise-tennis-school-instagram-dm",
-   "name": "Sunrise Tennis School (Instagram DM)",
+   "name": "Sunrise Tennis School",
    "city": "Tokyo",
-   "role": "New contact",
+   "role": "Tennis school",
    "action": "SEND",
    "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。今週のゲーム週の投稿を拝見しました。12月14日〜19日に東京に滞在するので、その週に上級クラスへのビジター参加か、大森コーチとのプライベートレッスンは可能でしょうか?\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw this week's match-play week posts. I'm in Tokyo Dec 14-19; could I join an advanced class as a visitor, or book a private with Coach Omori that week?",
-   "links": [],
-   "new": true
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/sunrisetennisschool"
+    }
+   ],
+   "new": true,
+   "handle": "sunrisetennisschool"
   },
   {
    "id": "jp-takaji-hashiguchi-tennis-bear-chat",
