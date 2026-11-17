@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-heytennis-messenger",
+   "name": "HeyTennis (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw your Three Courts Cubao and Meralco court reels, love the court-reveal series. I'm in Manila from this weekend for PCA qualies, Cebu after. Know any strong players or coaches who'd want to hit? Happy to jump in a game night too and be in a reel.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-tennis-blueprint-ph-messenger",
    "name": "Tennis Blueprint PH (Messenger)",
    "city": "Philippines",
