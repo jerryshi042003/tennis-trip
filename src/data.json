@@ -486,6 +486,22 @@
    ]
   },
   {
+   "id": "ph-louplaystennis",
+   "name": "Lou Gambong",
+   "city": "Cebu",
+   "role": "Cebu rec player",
+   "action": "SEND",
+   "send": "Hey Lou! Saw your Citigreen rating reel, been hearing good things about that court. I'm Jerry, LA-based, UCLA alum. In Cebu Nov 22 to 28 before the PCA Open in Manila. Down to hit one of those days?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/louplaystennis"
+    }
+   ],
+   "new": true,
+   "handle": "louplaystennis"
+  },
+  {
    "id": "ph-threecourts.cubao",
    "name": "Three Courts Cubao",
    "city": "Quezon City",
