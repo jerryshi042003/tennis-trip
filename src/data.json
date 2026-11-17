@@ -572,6 +572,54 @@
    "new": true
   },
   {
+   "id": "ph-gabriel_borres",
+   "name": "Gab Borres (IG DM)",
+   "city": "Manila",
+   "role": "Manila tennis creator",
+   "action": "SEND",
+   "send": "Hey Gab! Jerry here, UCLA alum from LA, I play ITF futures (UTR ~9). Been seeing your #tennisph reels, the Nov 15 one was clean. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Down to hit one morning before Nov 30? Happy to film something together too.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/gabriel_borres"
+    }
+   ],
+   "new": true,
+   "handle": "gabriel_borres"
+  },
+  {
+   "id": "ph-elleramirezz",
+   "name": "Elle Ramirez (IG DM)",
+   "city": "Tokyo",
+   "role": "actress, tennis player/creator",
+   "action": "SEND",
+   "send": "Hi Elle! Jerry from LA here, UCLA alum playing ITF futures. Loved the \"chill rally lang\" reel haha. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Do you know a good group or court to hit at in Manila? Would love to rally if you're free.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/elleramirezz"
+    }
+   ],
+   "new": true,
+   "handle": "elleramirezz"
+  },
+  {
+   "id": "ph-miguelechano",
+   "name": "Miguel Echano (IG DM)",
+   "city": "Manila",
+   "role": "Manila creator, rec player",
+   "action": "SEND",
+   "send": "Hey Miguel! Jerry here, UCLA alum from LA, I play ITF futures. Saw your 8 hours of tennis at the Open Play & Away match day, respect. I'm in Manila from this weekend for PCA Open qualies, Cebu after. Want to hit one morning? Could make a fun reel too.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/miguelechano"
+    }
+   ],
+   "new": true,
+   "handle": "miguelechano"
+  },
+  {
    "id": "ph-courtsidetennisclub.ph",
    "name": "Courtside Tennis Club PH",
    "city": "Manila",
