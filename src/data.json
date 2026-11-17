@@ -1925,6 +1925,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-小野田倫久さん-ig-dm",
+   "name": "小野田倫久さん (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "小野田さん、はじめまして。LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures出場、UTR 9前後)。スタテニの動画をいつも拝見しています。12月14日〜19日に東京(千駄ヶ谷)に滞在するのですが、その期間にプライベートレッスンか練習をお願いすることは可能でしょうか?\n\nHi Onoda-san, Jerry from LA (UCLA, ITF futures, UTR ~9). Big fan of the Sutateni videos. I'm in Tokyo Dec 14-19 near Sendagaya. Would a private lesson or a hit with you be possible that week?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-熊谷昌飛さん-ig-dm",
+   "name": "熊谷昌飛さん (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "熊谷さん、はじめまして。LAでテニスをしているJerry Shiです(UCLA出身、ITF Futures出場、UTR 9前後)。Torolineのスポンサーと拝見して親近感がわきました。12月14日〜19日に東京(千駄ヶ谷)にいるので、もしよければ一度一緒に練習できませんか?\n\nHi Masato, Jerry from LA (UCLA, ITF futures, UTR ~9). Saw you're with Toroline too, nice. I'm in Tokyo Dec 14-19 near Sendagaya. Would you be up for a hit together that week?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-vamoswatanabe",
    "name": "Vamos! Watanabe / (IG DM)",
    "city": "Tokyo",
