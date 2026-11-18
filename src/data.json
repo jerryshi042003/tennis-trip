@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-coach-rodney-messenger",
+   "name": "Coach Rodney (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Rodney! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw you coach at the Orchard courts in Dasma and around Cavite. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could book a hitting session with you or one of your stronger players before qualies start Nov 30?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-peter-loyola-messenger",
    "name": "Peter Loyola (Messenger)",
    "city": "Philippines",
