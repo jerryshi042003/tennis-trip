@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-coach-joey-messenger",
+   "name": "Coach Joey (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey Coach Joey! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your doubles title and the group sessions you've been running. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance you'd be up for a hit or know some strong players I could join while I'm there?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-bea-gomez-ig-dm",
    "name": "Bea Gomez (IG DM)",
    "city": "Philippines",
@@ -2043,6 +2053,26 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-ヨネダ-tennis-bear-chat",
+   "name": "ヨネダ (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。高井戸公園でのLv.6〜9のゲーム練習、シングルスのマッチ練もあると拝見しとても惹かれました。12月14日〜19日に東京に滞在しますので、その週に開催があれば参加させていただけませんか?\nHi Yoneda! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw you played top-division college tennis and run high-level match play at Takaido Park. I'm in Tokyo Dec 14-19. If you host one that week, could I join?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-fedelove-tennis-bear-chat",
+   "name": "fedelove (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。滝野川での1対1シングルス練習、練習から試合までの流れがとても良さそうです。12月14日〜19日に東京に滞在しますので、その週にご都合が合えば一緒に打たせていただけませんか?\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Your 1-on-1 singles sessions at Takinogawa look great. I'm in Tokyo Dec 14-19. If you're free that week, could we hit?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-koji-tennis-bear-chat",
