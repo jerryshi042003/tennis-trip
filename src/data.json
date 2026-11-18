@@ -2075,6 +2075,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-breakthrough-tennis-academy-tennis-bear-chat",
+   "name": "Breakthrough Tennis Academy (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。山中夏雄コーチや西岡選手のクリニックを開催されているのを拝見しました。12月14日〜19日に千駄ヶ谷の近くに滞在します。その週にクリニックや上級者の練習があれば参加させていただけませんか?\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw you ran the Yamanaka and Nishioka clinics. I'm near Sendagaya Dec 14-19. Any clinic or advanced session that week I could join?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-takaji-hashiguchi-tennis-bear-chat",
+   "name": "Takaji Hashiguchi (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。アメリカとイギリスでテニスを学ばれたと拝見しました。12月14日〜19日に千駄ヶ谷の近くに滞在します。その週に1〜2時間ほどシングルスのヒッティングをお願いできませんか?(レッスン料はお支払いします)\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw you trained in the US and UK. I'm near Sendagaya Dec 14-19. Could we book a 1-2 hour singles hit that week? Happy to pay your rate.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-aki-chan-tennis-bear-chat",
    "name": "Aki-chan (Tennis Bear chat)",
    "city": "Tokyo",
@@ -2817,16 +2837,6 @@
    ],
    "new": true,
    "handle": "sunrisetennisschool"
-  },
-  {
-   "id": "jp-takaji-hashiguchi-tennis-bear-chat",
-   "name": "Takaji Hashiguchi (Tennis Bear chat)",
-   "city": "Tokyo",
-   "role": "New contact",
-   "action": "SEND",
-   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。アメリカとイギリスでコーチ留学されたと拝見しました。12月14日〜19日に東京(千駄ヶ谷近く)に滞在するので、その週にラリー中心のプライベートセッションを1回お願いできますか?\n\nHi Takaji! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR ~9). Saw you trained as a coach in the US and UK. I'm in Tokyo Dec 14-19, staying near Sendagaya; could I book one rally-heavy private session with you that week?",
-   "links": [],
-   "new": true
   },
   {
    "id": "jp-ecola-sports-tennis-bear-chat",
