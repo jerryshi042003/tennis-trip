@@ -486,6 +486,26 @@
    ]
   },
   {
+   "id": "ph-taytay-tennis-club-messenger-to-admin",
+   "name": "Taytay Tennis Club (Messenger to admin)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Zita! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Found the Taytay Tennis Club page. I'm in Manila from this weekend for PCA qualies, Cebu after. Do you guys have open play or anyone looking for a solid hit while I'm around?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-racquet-hauz-club-messenger",
+   "name": "Racquet Hauz Club (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey Racquet Hauz! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw your Alabang Hills evening sessions on Reclub, looks like a fun crew. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could jump into one of the evening sessions or the Wednesday doubles?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-pup-radicals-tennis-team-messenger",
    "name": "PUP Radicals Tennis Team (Messenger)",
    "city": "Philippines",
