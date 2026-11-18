@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-mu-cardinals-tennis-messenger",
+   "name": "MU Cardinals Tennis (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey Mapúa tennis! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw the Season 101 roster drop, congrats to the new Cardinals. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could hit with some of the team one morning while I'm in town?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-upc-lawn-tennis-varsity-messenger",
    "name": "UPC Lawn Tennis Varsity (Messenger)",
    "city": "Philippines",
