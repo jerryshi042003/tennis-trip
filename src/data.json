@@ -2045,6 +2045,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-koji-tennis-bear-chat",
+   "name": "koji (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。相娯園のレッドクレーでのラリー練習、シングルス重視の内容にとても惹かれました。12月にマニラのクレー大会に出た後、12月14日〜19日に東京に滞在します。その週に開催があれば1枠参加させていただけないでしょうか。\nHi koji! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). A singles-focused rally session on red clay is exactly what I want, coming off a clay event in Manila. I'm in Tokyo Dec 14-19. If you run one that week, could I join?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-torutoru-tennis-bear-chat",
+   "name": "torutoru (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。緑町公園での4名練習会、基礎練習からダブルスゲームまでの流れがとても良さそうです。12月14日〜19日に東京に滞在しますので、その週に開催があれば参加させていただけないでしょうか。\nHi torutoru! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Your 4-player drills-then-doubles group in Ryogoku looks great. I'm in Tokyo Dec 14-19. If you run one that week, could I join?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-ナオ-tennis-bear-chat",
    "name": "ナオ (Tennis Bear chat)",
    "city": "Tokyo",
