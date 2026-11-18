@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-salvador-merculio-alba-messenger",
+   "name": "Salvador Merculio Alba (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Badz! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your Coach Badz Tennis sessions. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance you'd be up for a hit, or know a strong player around Manila who wants practice?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-ricardo-tennis-academy-messenger",
    "name": "Ricardo Tennis Academy (Messenger)",
    "city": "Philippines",
