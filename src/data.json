@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-cecile-tennis-club-fb-messenger",
+   "name": "Cecile Tennis Club (FB Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi CTC! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Love that you've got covered courts at Matchpoint@Mactan, huge for the rainy season. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could join a club session or find a couple of strong players to hit with when I'm in Lapu-Lapu? Happy to pay court fees.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-tennis-with-coach-joe-fb-messenger",
    "name": "Tennis with Coach Joe (FB Messenger)",
    "city": "Philippines",
