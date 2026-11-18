@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-peter-loyola-messenger",
+   "name": "Peter Loyola (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Peter! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw you're running the Islander doubles tournament on the 21st and 28th. I'm in Manila from this weekend for PCA qualies, Cebu after. Is there still room for a team on the 28th, or could I hit with you or some of your stronger players while I'm there?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-joey-messenger",
    "name": "Coach Joey (Messenger)",
    "city": "Philippines",
