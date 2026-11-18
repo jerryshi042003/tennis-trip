@@ -486,6 +486,26 @@
    ]
   },
   {
+   "id": "ph-upc-lawn-tennis-varsity-messenger",
+   "name": "UPC Lawn Tennis Varsity (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi UP Cebu tennis! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Congrats on wrapping CESAFI Season 26. I'm in Manila from this weekend for PCA qualies, Cebu after. Would any of your players be up for a hit while I'm in Cebu?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-university-of-cebu-tennis-team-messenger",
+   "name": "University of Cebu Tennis Team (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey UC tennis! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Congrats on the CESAFI overall title. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could hit with some of the team when I'm in Cebu?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-rar-tennis-lab-messenger",
    "name": "RAR Tennis Lab (Messenger)",
    "city": "Philippines",
