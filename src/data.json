@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-three-set-league-messenger",
+   "name": "Three Set League (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Love the 3-set open play format at Capitol Hills. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could jump into one of your stronger singles or men's doubles matches while I'm in QC?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-greenwoods-dasma-tennis-club-messenger",
    "name": "Greenwoods Dasma Tennis Club (Messenger)",
    "city": "Philippines",
