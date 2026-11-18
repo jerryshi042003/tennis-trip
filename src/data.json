@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-coach-stan-bautista-fb-messenger",
+   "name": "Coach Stan Bautista (FB Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Stan! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Loved the \"you don't beat a banger by hitting harder\" post, so true. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could come down to Imus Tennis Club for a session or hit with one of your stronger players? Happy to pay court fees.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-cecile-tennis-club-fb-messenger",
    "name": "Cecile Tennis Club (FB Messenger)",
    "city": "Philippines",
@@ -2023,6 +2033,26 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-井原-力-tennis-bear-chat",
+   "name": "井原 力 (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。全日本ジュニアU16ダブルス優勝、実業団でのご経歴を拝見しました。12月14日〜19日に東京(千駄ヶ谷近く)に滞在します。その週に、シングルスの実戦練習かヒッティングをレッスン枠でお願いできないでしょうか。\nHi Riki! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw you won All-Japan Juniors U16 doubles and played corporate league. I'm in Tokyo Dec 14-19 near Sendagaya. Could I book you that week for a match-play singles session or a hit?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-ftc-team-manager-tennis-bear-chat",
+   "name": "FTC Team Manager (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。品川区民公園での平日シングルスのゲーム形式練習、まさに探していた内容です。12月14日〜19日に東京に滞在しますので、その週に開催があれば1枠参加させていただけないでしょうか。\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Your weekday singles match-play sessions at Shinagawa Kumin Park are exactly what I'm looking for. I'm in Tokyo Dec 14-19. If Finesse runs one that week, could I grab a spot?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-相原-一樹-tennis-bear-chat",
