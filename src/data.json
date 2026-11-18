@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-carajay-tennis-club-messenger",
+   "name": "Carajay Tennis Club (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your Asmara Open post and Coach Chad's results. I'm in Manila from this weekend for PCA qualies, Cebu after. Once I'm in Cebu, could I book a court and find a strong player or coach at the club to hit with?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-juz-juztennis-messenger",
    "name": "Coach Juz / Juztennis (Messenger)",
    "city": "Philippines",
@@ -2183,6 +2193,16 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-soichiro-moriya-ig-dm",
+   "name": "Soichiro Moriya (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。片手バックハンドスライスの投稿、とても好きでした。僕も片手バックが減っているのは寂しいです。12月14日〜19日に東京(千駄ヶ谷付近)に滞在します。その週にRWTAで練習に参加させていただくか、一度ヒッティングをお願いできませんか?\nHi Soichiro! Jerry here, LA-based UCLA alum playing ITF futures (UTR ~9). Loved your one-handed slice post, agree we need more one-handers. I'm in Tokyo near Sendagaya Dec 14-19. Any chance I could join an RWTA session or hit with you that week?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-takumi-katsuda-ig-dm",
