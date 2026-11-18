@@ -2145,6 +2145,16 @@
    "fit": "contain"
   },
   {
+   "id": "jp-naohiro-igarashi-ig-dm",
+   "name": "Naohiro Igarashi (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。小金井公園のタウンカップ男子シングルスを拝見しました。12月14日〜19日に東京(千駄ヶ谷付近)に滞在します。その期間に男子シングルスの大会(平日やサンセットでも)があれば、エントリーさせていただけますか?\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw your Koganei Park Town Cup men's singles. I'm in Tokyo (near Sendagaya) Dec 14-19. Any men's singles event that week, weekday or sunset? I'd love to enter.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-nishikoku-tennis-school-tennis-bear-chat",
    "name": "Nishikoku Tennis School (Tennis Bear chat)",
    "city": "Tokyo",
