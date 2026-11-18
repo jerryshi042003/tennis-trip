@@ -111,10 +111,13 @@ def drafts(sec):
     i = 0
     while i < len(lines):
         m = re.match(r"^\*\*(.+?)\*\*\s*(.*)$", lines[i])
-        if m and i + 1 < len(lines) and lines[i + 1].startswith(">"):
+        j = i + 1
+        while j < len(lines) and not lines[j].strip():
+            j += 1
+        if m and j < len(lines) and lines[j].startswith(">"):
             label, note = m.group(1), m.group(2)
             body = []
-            i += 1
+            i = j
             while i < len(lines) and lines[i].startswith(">"):
                 body.append(lines[i][1:].strip())
                 i += 1

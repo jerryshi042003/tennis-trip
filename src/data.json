@@ -2445,6 +2445,150 @@
    "fit": "contain"
   },
   {
+   "id": "jp-tennisdoc_yui",
+   "name": "Yui Nagasawa",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして！UCLA出身のJerryです。ITFフューチャーズに出ていて、UTRは9前後です。12月14日から19日まで東京（千駄ヶ谷あたり）にいます。プライベートレッスンかヒッティングをお願いできますか？\n\nHi Yui! I'm Jerry from UCLA, I play ITF futures (UTR about 9). Saw your lesson account, love the footwork vlog. I'll be in Tokyo Dec 14-19 near Sendagaya. Could I book a private lesson or a hit with you?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/tennisdoc_yui"
+    }
+   ],
+   "new": true,
+   "handle": "tennisdoc_yui"
+  },
+  {
+   "id": "jp-bluesix_trainingclub",
+   "name": "BLUE SIX TRAINING CLUB (Instagram DM)",
+   "city": "Tokyo",
+   "role": "B6TC",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです（UCLA卒、ITFフューチャーズ、UTR約9）。有明でのBLUE SIX OPENの投稿を拝見しました。12月14日〜19日に千駄ヶ谷付近に滞在します。その週にクラブの選手の方と練習やヒッティングに参加させていただくことは可能でしょうか？\n\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Loved seeing the BLUE SIX OPEN at Ariake. I'm in Tokyo Dec 14-19 near Sendagaya. Any chance I could join a practice or hit with one of your players that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/bluesix_trainingclub"
+    }
+   ],
+   "new": true,
+   "handle": "bluesix_trainingclub"
+  },
+  {
+   "id": "jp-rimpeikawakami",
+   "name": "Rimpei Kawakami (Instagram DM)",
+   "city": "Shibuya",
+   "role": "川上倫平",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです（UCLA卒、ITFフューチャーズ、UTR約9）。エジプトやチュニジアのクレー大会の投稿を拝見しました。12月14日〜19日に千駄ヶ谷付近に滞在します。その週に一度ヒッティングしていただくことは可能でしょうか？レッスン形式でも大丈夫です。\n\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw your clay swings through Egypt and Tunisia. I'm in Tokyo Dec 14-19 near Sendagaya. Any chance of a hit that week? Happy to book it as a lesson too.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/rimpeikawakami"
+    }
+   ],
+   "new": true,
+   "handle": "rimpeikawakami"
+  },
+  {
+   "id": "jp-yukari_27a",
+   "name": "Yukari Abe (Instagram DM)",
+   "city": "Tokyo",
+   "role": "安部由香莉",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです（UCLA卒、ITFフューチャーズ、UTR約9）。テニスユニバースでの全国実業団7位、お疲れさまでした。12月14日〜19日に千駄ヶ谷付近に滞在します。その週に一度ヒッティングしていただくか、レッスンをお願いすることは可能でしょうか？\n\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Congrats on 7th at the national corporate league with Tennis Universe. I'm in Tokyo Dec 14-19 near Sendagaya. Any chance of a hit or a session with you that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/yukari_27a"
+    }
+   ],
+   "new": true,
+   "handle": "yukari_27a"
+  },
+  {
+   "id": "jp-tpress_official",
+   "name": "T-PRESS (Instagram DM)",
+   "city": "Koto",
+   "role": "富田",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです（UCLA卒、ITFフューチャーズ、UTR約9）。平日男性ダブルスのゲーム会の投稿を拝見しました。12月14日〜19日に千駄ヶ谷付近に滞在します。その週に練習会や潮見のイベントがあれば参加させていただけますか？\n\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Loved the weekday men's doubles day you ran with Inspirits. I'm in Tokyo Dec 14-19 near Sendagaya. If you have a practice session or Shiomi event that week, could I join?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/tpress_official"
+    }
+   ],
+   "new": true,
+   "handle": "tpress_official"
+  },
+  {
+   "id": "jp-hikaruofficial_0522",
+   "name": "Hikaru Shiraishi",
+   "city": "Yokohama",
+   "role": "verified, 29.6K followers, Waseda alum, Prince-sponsored",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。神戸チャレンジャーお疲れさまでした、横浜も応援しています。12月14日〜19日に東京(千駄ヶ谷近く)に滞在します。もしその週にご都合が合えば、一度練習相手をさせていただけないでしょうか。\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw you just wrapped Kobe and are on to Yokohama, good luck. I'm in Tokyo Dec 14-19 near Sendagaya. If you're around that week, any chance I could hit with you once?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/hikaruofficial_0522"
+    }
+   ],
+   "new": true,
+   "handle": "hikaruofficial_0522"
+  },
+  {
+   "id": "jp-seijo_tennis_academy",
+   "name": "Seijo Tennis Academy",
+   "city": "Setagaya",
+   "role": "3 hard courts, 1 omni",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。選手クラスの試合成績の投稿、いつも拝見しています。12月14日〜19日に東京(千駄ヶ谷近く)に滞在します。その週にハードコートでコーチの方や選手クラスの皆さんと練習させていただくことは可能でしょうか。\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw your player class match results, looks like a strong group. I'm in Tokyo Dec 14-19 near Sendagaya. Any chance to hit with a coach or your player class on the hard courts that week?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/seijo_tennis_academy"
+    }
+   ],
+   "new": true,
+   "handle": "seijo_tennis_academy"
+  },
+  {
+   "id": "jp-professional_tennis_league",
+   "name": "PTL",
+   "city": "Saitama",
+   "role": "founder 増田吉彦 of Inspirits Tennis Club",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。プロテニスリーグを目指す活動、とても素敵です。12月14日〜19日に東京(千駄ヶ谷近く)に滞在します。その週にPTLの選手の方と練習させていただくか、イベントに参加することは可能でしょうか。\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Love what PTL is doing to build a pro league in Japan. I'm in Tokyo Dec 14-19 near Sendagaya. Any chance to hit with one of your players that week, or join an event?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/professional_tennis_league"
+    }
+   ],
+   "new": true,
+   "handle": "professional_tennis_league"
+  },
+  {
+   "id": "jp-musashino_lawn_tennis_club",
+   "name": "Musashino Lawn Tennis Club",
+   "city": "Tokyo",
+   "role": "est. 1972",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。11月8日の今西美晴プロのクリニック、楽しそうですね。12月14日〜19日に東京(千駄ヶ谷近く)に滞在します。その週にビジターとしてコートをお借りするか、会員の方と練習させていただくことは可能でしょうか。\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). The Nov 8 clinic with Miharu Imanishi looked like a great day. I'm in Tokyo Dec 14-19 near Sendagaya. Is there a way to play there as a visitor that week, or hit with a member?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/musashino_lawn_tennis_club"
+    }
+   ],
+   "new": true,
+   "handle": "musashino_lawn_tennis_club"
+  },
+  {
    "id": "jp-tennis_mdts",
    "name": "Musashino Dome Tennis School",
    "city": "Tokyo",
