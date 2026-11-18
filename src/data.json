@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-tennis-players-in-makati-messenger-to-admin-xavier",
+   "name": "Tennis Players in Makati (Messenger to admin Xavier)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Xavier! I'm Jerry from UCLA, I'm in Manila from this weekend for PCA qualies, Cebu after. Found your Tennis Players in Makati group, looks super active. Who can I hit with around Makati?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-taytay-tennis-club-messenger-to-admin",
    "name": "Taytay Tennis Club (Messenger to admin)",
    "city": "Philippines",
