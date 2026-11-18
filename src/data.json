@@ -2085,6 +2085,16 @@
    "fit": "contain"
   },
   {
+   "id": "jp-yotsupis-tennis-bear-chat",
+   "name": "Yotsupis (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。インターハイのシングルスに出場されていたと拝見しました。12月14日〜19日に千駄ヶ谷の近くに滞在します。その週に1〜2時間ほどシングルスのヒッティングかプライベート練習をお願いできませんか?(料金はお支払いします)\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw you played Inter-High singles. I'm near Sendagaya Dec 14-19. Could we do a 1-2 hour singles hit or private session that week? Happy to pay.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-breakthrough-tennis-academy-tennis-bear-chat",
    "name": "Breakthrough Tennis Academy (Tennis Bear chat)",
    "city": "Tokyo",
