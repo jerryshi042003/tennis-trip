@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-rar-tennis-lab-messenger",
+   "name": "RAR Tennis Lab (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey Coach Ronald! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw the RAR Tennis Lab sessions, looks like a serious program. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could join a session or get a hit with one of your players?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-kennex-abadia-messenger",
    "name": "Kennex Abadia (Messenger)",
    "city": "Philippines",
