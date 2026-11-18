@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-bea-gomez-ig-dm",
+   "name": "Bea Gomez (IG DM)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey Bea! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your PCA Open reel, love that it's been part of your journey since your first tournament. I'm in Manila from this weekend for PCA qualies, Cebu after. Would you be down to hit once while I'm there, or point me to a good group to play with?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-stan-bautista-fb-messenger",
    "name": "Coach Stan Bautista (FB Messenger)",
    "city": "Philippines",
@@ -2033,6 +2043,16 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-ナオ-tennis-bear-chat",
+   "name": "ナオ (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。錦糸公園での上級者向け練習会、上達重視の内容でとても惹かれました。12月14日〜19日に東京に滞在しますので、その週に開催があれば1枠参加させていただけないでしょうか。\nHi Nao! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Your advanced practice group at Kinshi Park looks like exactly the serious training I want. I'm in Tokyo Dec 14-19. If you run one that week, could I join?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-井原-力-tennis-bear-chat",
