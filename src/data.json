@@ -486,6 +486,46 @@
    ]
   },
   {
+   "id": "ph-eric-jay-tangub-messenger",
+   "name": "Eric Jay Tangub (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey Eric! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Congrats on the Asmara Open semis run. I'm in Manila from this weekend for PCA qualies, Cebu after. Would you be down to hit when I'm in Cebu?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-choy-marasigan-messenger",
+   "name": "Choy Marasigan (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Choy! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Your ka-rally warm-up skit was too real haha. I'm in Manila from this weekend for PCA qualies, Cebu after. Down to hit one of those days, or know a good spot in Mandaluyong to find a rally?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-josh-marasigan-messenger",
+   "name": "Josh Marasigan (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Josh! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw you do hitting partner sessions around Makati and Sta. Mesa. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance you'd be up for a hit one of those days?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-sta-mesa-tennis-club-1965-messenger",
+   "name": "Sta. Mesa Tennis Club 1965 (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your Monday morning matches. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could join a session or hit with one of your stronger members?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-salvador-merculio-alba-messenger",
    "name": "Salvador Merculio Alba (Messenger)",
    "city": "Philippines",
