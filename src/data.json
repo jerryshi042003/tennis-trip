@@ -2065,6 +2065,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-fiat428-tennis-bear-chat",
+   "name": "fiat428 (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。2016年から主催されている代々木西原公園のダブルス、上級者まで参加できると拝見しました。12月14日〜19日に千駄ヶ谷の近くに滞在しますので、その週に開催があれば参加させていただけませんか?\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw you've hosted doubles at Yoyogi Nishihara since 2016, open up to advanced. I'm staying near Sendagaya Dec 14-19. If you host one that week, could I join?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-elegance-tennis-bear-chat",
+   "name": "elegance (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。青山運動場でのLv.6〜8シングルスゲーム練習にとても惹かれました。12月14日〜19日に千駄ヶ谷の近くに滞在しますので、その週に開催があればルールを守って参加させていただけませんか?\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Your Lv.6-8 singles game practice at Aoyama caught my eye. I'm staying near Sendagaya Dec 14-19. If you run one that week, could I join (rules noted)?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-ヨネダ-tennis-bear-chat",
    "name": "ヨネダ (Tennis Bear chat)",
    "city": "Tokyo",
