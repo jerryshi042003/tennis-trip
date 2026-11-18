@@ -486,6 +486,36 @@
    ]
   },
   {
+   "id": "ph-coach-juz-juztennis-messenger",
+   "name": "Coach Juz / Juztennis (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Juz! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw you coach around Calamba, Sta. Rosa and Alabang. I'm in Manila from this weekend for PCA qualies, Cebu after. Would you be up for a hit one day before Nov 30? Happy to come to Alabang or Sta. Rosa.",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-crosscourt-tennis-coaching-messenger",
+   "name": "Crosscourt Tennis Coaching (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Liked your focus on competitive pathways for juniors in Antipolo. I'm in Manila from this weekend for PCA qualies, Cebu after. Any coach or strong junior who'd want to hit one morning before Nov 30? Happy to come out to Antipolo.",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-coach-larry-tennis-rally-with-larry-messenger",
+   "name": "Coach Larry / Tennis Rally with Larry (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Larry! Jerry here, LA-based player (UCLA alum, play ITF futures, UTR ~9). Saw you do hitting partner sessions out of Centro Verde in Calamba. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance we could hit one day before qualies start Nov 30? Happy to come down to Calamba.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-archie-andes-andes-tennis-messenger",
    "name": "Coach Archie Andes / Andes Tennis (Messenger)",
    "city": "Philippines",
@@ -2153,6 +2183,16 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-takumi-katsuda-ig-dm",
+   "name": "Takumi Katsuda (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryです(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。UTPBとNAUでプレーされていたと拝見し、アメリカの大学テニス仲間として嬉しくなりました。12月14日〜19日に東京(千駄ヶ谷付近)に滞在します。その週にどこかで一緒にヒッティングできませんか?\nHey Takumi! Jerry here, LA-based UCLA alum playing ITF futures (UTR ~9). Saw you played at UTPB and NAU, love seeing a fellow US college tennis guy. I'm in Tokyo near Sendagaya Dec 14-19. Up for a hit one day that week?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-naohiro-igarashi-ig-dm",
