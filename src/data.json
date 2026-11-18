@@ -486,6 +486,26 @@
    ]
   },
   {
+   "id": "ph-ricardo-tennis-academy-messenger",
+   "name": "Ricardo Tennis Academy (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Ricardo! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Congrats on Miguel's PCA Open junior title. I'm in Manila from this weekend for PCA qualies, Cebu after. Could I come by one day for a hit with Miguel or one of your stronger players?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-jhl-tennis-messenger",
+   "name": "JHL Tennis (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your evening sessions at Villagio Ignatius and Baypoint. I'm in Manila from this weekend for PCA qualies, Cebu after. Could I join one of your advanced sessions or hit with one of your coaches one day?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-franco-dilao-messenger",
    "name": "Coach Franco Dilao (Messenger)",
    "city": "Philippines",
@@ -2223,6 +2243,16 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-kazuto-sawada-ig-dm",
+   "name": "Kazuto Sawada (IG DM)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。テクニファイバーのインプレ投稿、いつも参考になります。12月14日〜19日に東京(千駄ヶ谷付近)に滞在します。上用賀テニスクラブで一緒に打てる方や、参加できる練習会があれば教えていただけませんか?\nHi Sawada-san! Jerry here, LA-based UCLA alum playing ITF futures (UTR ~9). Your Tecnifibre racket breakdowns are great. I'm in Tokyo near Sendagaya Dec 14-19. Is there a session at Kamiyoga Tennis Club I could join, or someone there I could hit with that week?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-soichiro-moriya-ig-dm",
