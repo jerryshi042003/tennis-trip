@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-tennis-life-ph-coach-rye-messenger",
+   "name": "Tennis Life PH / Coach Rye (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Rye! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw you offer hitting partner sessions around QC and ran sessions at the new QMC courts. I'm in Manila from this weekend for PCA qualies, Cebu after. Could I book a couple of hitting sessions with you before qualies start Nov 30?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-rodney-messenger",
    "name": "Coach Rodney (Messenger)",
    "city": "Philippines",
