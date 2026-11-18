@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-pup-radicals-tennis-team-messenger",
+   "name": "PUP Radicals Tennis Team (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey PUP Radicals! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw the new men's roster drop, congrats on the 3-peat. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could hit with some of the guys one morning while I'm in town?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-san-beda-tennis-team-messenger",
    "name": "San Beda Tennis Team (Messenger)",
    "city": "Philippines",
