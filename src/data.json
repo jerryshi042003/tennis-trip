@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-coach-archie-andes-andes-tennis-messenger",
+   "name": "Coach Archie Andes / Andes Tennis (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Archie! Jerry here, LA-based player (UCLA alum, play ITF futures, UTR ~9). Saw your group sessions up in Bocaue. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance you'd hit with me one day before the tournament? Happy to come up to Bulacan.",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-dan-lazarte-tennis-revolution-hub-messenger",
    "name": "Coach Dan Lazarte / Tennis Revolution Hub (Messenger)",
    "city": "Philippines",
