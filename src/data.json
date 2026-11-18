@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-san-beda-tennis-team-messenger",
+   "name": "San Beda Tennis Team (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey San Beda Red Netters! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Saw the Asian stage post, congrats to the Bedan players. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could hit with some of the team one morning at Rizal Memorial or wherever you train?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-mu-cardinals-tennis-messenger",
    "name": "MU Cardinals Tennis (Messenger)",
    "city": "Philippines",
