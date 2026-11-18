@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-coach-dan-lazarte-tennis-revolution-hub-messenger",
+   "name": "Coach Dan Lazarte / Tennis Revolution Hub (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Dan! Jerry here, LA-based player (UCLA alum, play ITF futures). Saw your footwork drill clips in Novaliches, and that you teach at Amanpulo too. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance you'd hit with me one morning in QC before the tournament?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-malabon-sports-complex-tennis-club-messenger",
    "name": "Malabon Sports Complex Tennis Club (Messenger)",
    "city": "Philippines",
