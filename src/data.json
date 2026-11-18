@@ -2085,6 +2085,16 @@
    "fit": "contain"
   },
   {
+   "id": "jp-npo-depoam-tennis-bear-chat-or-email",
+   "name": "NPO Depoam (Tennis Bear chat or email)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。有明や祖師谷で年間400大会も運営されていると拝見しました。12月14日〜19日に千駄ヶ谷の近くに滞在します。その週にフリー(オープン)レベルのシングルス大会があるか、または上級者の練習相手をご紹介いただけないでしょうか?\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw you run about 400 tournaments a year at Ariake and around Tokyo. I'm near Sendagaya Dec 14-19. Is there an open-level singles event that week, or could you point me to a strong player to hit with?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-yotsupis-tennis-bear-chat",
    "name": "Yotsupis (Tennis Bear chat)",
    "city": "Tokyo",
