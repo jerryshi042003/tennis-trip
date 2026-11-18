@@ -486,6 +486,26 @@
    ]
   },
   {
+   "id": "ph-grand-slam-manila-messenger",
+   "name": "Grand Slam Manila (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your Nov 21 Class A2 men's singles at Olivarez. I'm in Manila from this weekend for PCA qualies, Cebu after. Any spots left for a visitor, or an open play I could join to get some matches before Nov 30?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-in-between-ph-messenger",
+   "name": "In-Between PH (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw The Majors series at The Orchard, looks fun. I'm in Manila from this weekend for PCA qualies, Cebu after. Do you run any open plays or know strong players around Cavite/south Manila who'd want to hit?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-coach-jon-mark-bruce-messenger",
    "name": "Coach Jon Mark Bruce (Messenger)",
    "city": "Philippines",
@@ -2093,6 +2113,26 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-nishikoku-tennis-school-tennis-bear-chat",
+   "name": "Nishikoku Tennis School (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。土曜夜のにしこくCUP男子シングルスを拝見しました。12月14日〜19日に千駄ヶ谷の近くに滞在します。12月19日(土)にも開催予定はありますか?もしあれば参加させていただきたいです。\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw your Saturday-night Nishikoku Cup men's singles. I'm near Sendagaya Dec 14-19. Is there one on Sat Dec 19? I'd love to enter.",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-morie-tennis-bear-chat",
+   "name": "morie (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。足立区でシングルス練習試合をたくさん主催されているのを拝見しました。12月14日〜19日に東京(千駄ヶ谷付近)に滞在します。その週にシングルスの練習試合があれば参加させていただけませんか?\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw you host a lot of singles practice matches in Adachi. I'm in Tokyo (near Sendagaya) Dec 14-19. If you run a singles session that week, could I join?",
+   "links": [],
+   "new": true
   },
   {
    "id": "jp-npo-depoam-tennis-bear-chat-or-email",
