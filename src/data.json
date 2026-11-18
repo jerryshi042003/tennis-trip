@@ -486,6 +486,36 @@
    ]
   },
   {
+   "id": "ph-kennex-abadia-messenger",
+   "name": "Kennex Abadia (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hey Kennex! Jerry here, UCLA alum from LA playing ITF futures (UTR ~9). Congrats on the Men's 35 title at Asmara! I'm in Manila from this weekend for PCA qualies, Cebu after. Down to hit one day when I'm in Cebu?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-elit-manila-tennis-messenger",
+   "name": "ELiT Manila Tennis (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your open plays at One Court and Two Courts, the Gentlemen's Night doubles looks fun. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could join one of your stronger sessions or get a singles hit with one of your top players?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "ph-trockzians-roa-roa-messenger",
+   "name": "Trockzians Roa Roa (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Dann! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Your Live Love Tennis sessions at Linao look like a great crew. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could join a session or get a hit with you when I'm in Cebu?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-three-set-league-messenger",
    "name": "Three Set League (Messenger)",
    "city": "Philippines",
@@ -2323,6 +2353,38 @@
     }
    ],
    "fit": "contain"
+  },
+  {
+   "id": "jp-tennis_mdts",
+   "name": "Musashino Dome Tennis School",
+   "city": "Tokyo",
+   "role": "Musashino Dome Tennis School",
+   "action": "SEND",
+   "send": "はじめまして！LAでテニスをしているJerry Shiです（UCLA卒、ITFフューチャーズに出ています、UTR 9くらい）。本橋コーチの杉並区民大会二連覇、おめでとうございます！12月14日から19日まで東京（千駄ヶ谷）に滞在するのですが、その週に本橋コーチや上級の方と練習させていただける時間はありますか？レッスン料もお支払いします。\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR about 9). Congrats to Coach Motohashi on back-to-back Suginami titles! I'm in Tokyo (Sendagaya) Dec 14-19. Any chance to hit with him or a strong player that week? Happy to pay for court or lesson time.",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/tennis_mdts"
+    }
+   ],
+   "new": true,
+   "handle": "tennis_mdts"
+  },
+  {
+   "id": "jp-sbcdreamtennis",
+   "name": "SBC Dream Tennis Tour",
+   "city": "Tokyo",
+   "role": "SBCドリームテニスツアー",
+   "action": "SEND",
+   "send": "はじめまして！LAでテニスをしているJerry Shiです（UCLA卒、ITFフューチャーズに出ています、UTR 9くらい）。有明でのツアーファイナルの告知を拝見しました。12月14日から19日まで東京（千駄ヶ谷）に滞在するのですが、その週にツアー選手の方と練習できる機会や、参加できる大会・練習会があれば教えていただけますか？\n\nHi! I'm Jerry, LA-based UCLA alum playing ITF futures (UTR about 9). Saw the Tour Final announcement at Ariake. I'm in Tokyo (Sendagaya) Dec 14-19, just before it. Any tour players looking for a hit that week, or an event or practice I could join?",
+   "links": [
+    {
+     "label": "Instagram",
+     "url": "https://ig.me/m/sbcdreamtennis"
+    }
+   ],
+   "new": true,
+   "handle": "sbcdreamtennis"
   },
   {
    "id": "jp-waseda_tennis_team",
