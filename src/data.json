@@ -2065,6 +2065,26 @@
    "fit": "contain"
   },
   {
+   "id": "jp-aki-chan-tennis-bear-chat",
+   "name": "Aki-chan (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。TOROLINEオープンなどシングルスでの優勝歴を拝見し、ぜひ一緒に打たせていただきたいと思いました。12月14日〜19日に千駄ヶ谷の近くに滞在します。その週に鶴間で上級ヒッティング練習会があれば参加させていただけませんか?\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Saw your singles titles (TOROLINE open etc.) and would love to hit. I'm near Sendagaya Dec 14-19. If you run an advanced hitting session at Tsuruma that week, could I join?",
+   "links": [],
+   "new": true
+  },
+  {
+   "id": "jp-hiroko-tennis-bear-chat",
+   "name": "HIROKO (Tennis Bear chat)",
+   "city": "Tokyo",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "はじめまして、LA在住のJerryと申します(UCLA出身、ITFフューチャーズに出場、UTR 9前後)。ヒロカップのシングルス大会、桜田倶楽部での開催とても素敵ですね。12月14日〜19日に千駄ヶ谷の近くに滞在しますので、その週にヒロカップや麻布でのシングルス練習があれば参加させていただけませんか?\nHi! Jerry here, LA-based (UCLA alum, ITF futures, UTR ~9). Love the Hiro Cup singles series at Sakurada Club. I'm near Sendagaya Dec 14-19. If there's a Hiro Cup or Azabu singles session that week, could I join?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "jp-fiat428-tennis-bear-chat",
    "name": "fiat428 (Tennis Bear chat)",
    "city": "Tokyo",
