@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-rc-tennis-renell-crescini-messenger",
+   "name": "RC Tennis / Renell Crescini (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Renell! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw your crew's legends titles at the Gentry Open, congrats. I'm in Manila from this weekend for PCA qualies, Cebu after. Any strong players in your academy who'd want to hit, or would you be up for one if I come up to Angeles?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-eric-jay-tangub-messenger",
    "name": "Eric Jay Tangub (Messenger)",
    "city": "Philippines",
