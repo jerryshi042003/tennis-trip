@@ -486,6 +486,16 @@
    ]
   },
   {
+   "id": "ph-coach-jon-mark-bruce-messenger",
+   "name": "Coach Jon Mark Bruce (Messenger)",
+   "city": "Philippines",
+   "role": "New contact",
+   "action": "SEND",
+   "send": "Hi Coach Jon Mark! Jerry here, LA-based player (UCLA alum, ITF futures, UTR ~9). Saw you made PHILTA's World Tennis certified coaches list, congrats. I'm in Manila from this weekend for PCA qualies, Cebu after. Any chance I could book a few hitting sessions with you around QC before qualies start Nov 30?",
+   "links": [],
+   "new": true
+  },
+  {
    "id": "ph-tennis-life-ph-coach-rye-messenger",
    "name": "Tennis Life PH / Coach Rye (Messenger)",
    "city": "Philippines",
